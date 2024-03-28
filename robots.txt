@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://denizenslab.github.io/teaching/DS_CogNeuro/sitemap.xml
+Sitemap: https://denizenslab.github.io//teaching/DS_CogNeuro/sitemap.xml
