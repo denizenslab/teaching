@@ -3,22 +3,21 @@
 # -----------------------------------------------------------------------------
 
 title: Data Science for Cognitive Neuroscience
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+first_name: Denizens 
+middle_name: 
+last_name: Lab
+email: TODO
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  The official Denizens Lab teaching page.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: denizens, denizens-lab, tu-berlin, DS_CogNeuro, fatma-deniz, anuja-negi # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: /assets/img/logo for DS_CogNeuro_dark.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://denizenslab.github.io/ # the base hostname & protocol for your site
-baseurl: /teaching/DS_CogNeuro # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: /teaching/ # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
