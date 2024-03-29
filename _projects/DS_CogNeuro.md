@@ -81,7 +81,7 @@ This course provides hands-on experience in the data analysis of brain data, ena
 ### Structure
 Each block of the integrated course will be structured as follows:
 1. Lecture
-2. Lab - practical component
+2. Tutorial
 3. Programming assignment - start solving it together and take-home
 
 ## Schedule
