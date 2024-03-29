@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Data Science for Cognitive Neuroscience
+title: Teaching @ Denizens Lab
 first_name: Denizens 
 middle_name: 
 last_name: Lab
@@ -14,10 +14,10 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: denizens, denizens-lab, tu-berlin, DS_CogNeuro, fatma-deniz, anuja-negi # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: /assets/img/logo for DS_CogNeuro_dark.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://denizenslab.github.io/ # the base hostname & protocol for your site
-baseurl: /teaching/ # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -173,7 +173,7 @@ collections:
     permalink: /news/:path/
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /courses/:path/
 
 announcements:
   enabled: true
@@ -384,6 +384,7 @@ enable_tooltips: false # enables automatic tooltip links generated for each sect
 enable_darkmode: true # enables switching between light/dark modes
 enable_navbar_social: false # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
+enable_teaching_categories: true
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 
