@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://denizenslab.github.io//teaching//sitemap.xml
+Sitemap: https://denizenslab.github.io//teaching/sitemap.xml
