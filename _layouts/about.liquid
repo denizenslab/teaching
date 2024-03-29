@@ -40,6 +40,32 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!--projects-->
+    {% if page.courses %}
+      <h2>
+        <a href="{{ '/courses/' | relative_url }}" style="color: inherit">courses</a>
+      </h2>
+      <div class="projects">
+        {% assign sorted_projects = site.projects | sort: "importance" %}
+        <!-- Generate cards for each project -->
+        {% if page.horizontal %}
+          <div class="container">
+            <div class="row row-cols-2">
+            {% for project in sorted_projects %}
+              {% include projects_horizontal.liquid %}
+            {% endfor %}
+            </div>
+          </div>
+          {% else %}
+          <div class="grid">
+            {% for project in sorted_projects %}
+              {% include projects.liquid %}
+            {% endfor %}
+          </div>
+          {% endif %}
+        {% endif %}
+        </div>    
+        
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>

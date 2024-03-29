@@ -2,80 +2,215 @@
 layout: page
 title: Data Science for Cognitive Neuroscience
 description: DS_CogNeuro
-img: assets/img/12.jpg
+img: assets/img/logo.png
 importance: 1
 category: SoSe24
 related_publications: false
+# redirect:
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Instructor: [Anuja Negi](https://anujanegi.me/)
+- [Overview](#overview)
+- [Content](#content)
+  - [Learning Outcomes](#learning-outcomes)
+  - [Structure](#structure)
+- [Schedule](#timeline)
+- [Exam](#list-of-research-papers)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Overview
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wo29{border-color:#c0c0c0;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<!-- <colgroup>
+<col style="width: 204px">
+<col style="width: 675px">
+</colgroup> -->
+<tbody>
+  <tr>
+    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">Language</span></td>
+    <td class="tg-wo29">English</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">Credits</td>
+    <td class="tg-wo29">6 ECTS</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">Lecture Period</td>
+    <td class="tg-wo29">Apr 15 - July 20, 2024</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">Time</td>
+    <td class="tg-wo29">Thursday @ 2-6pm</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">Location</td>
+    <td class="tg-wo29"><a href="https://maps.app.goo.gl/MhXJw12oPjEhnDbt6" target="_blank" rel="noopener noreferrer">MAR 5.060</a></td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">Course Website</td>
+    <td class="tg-wo29"><a href="https://denizenslab.github.io/teaching/courses/DS_CogNeuro" target="_blank" rel="noopener noreferrer">this page</a></td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">ISIS</td>
+    <td class="tg-wo29"><a href="https://isis.tu-berlin.de/course/view.php?id=37510" target="_blank" rel="noopener noreferrer">link</a></td>
+  </tr>
+</tbody>
+</table>
+<br>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Content
+The human brain is an intricate and complex information processing system, giving rise to an exciting interdisciplinary field of research. Understanding how it works is a challenging scientific quest. In recent decades, new brain imaging techniques have allowed us to "see" the brain in action, leading to the growth of cognitive neuroscience. Cognitive neuroscience explores the neural mechanisms that underlie a wide range of cognitive functions, linking brain activity to the tasks it performs. This field fosters exciting collaborations with psychology, biology, physics, and computer science, offering a comprehensive approach to understanding the brain.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+If you are intrigued by the inner workings of the brain and eager to employ cutting-edge brain imaging and data analysis tools for it’s exploration, this course is tailored for you! During this course, you will acquire proficiency in utilizing Python programming for comprehending, manipulating, and exploring human brain recordings (such as ECoG, EEG, MEG, and fMRI) You will also learn how to create and test hypotheses about how the brain processes information using real data.  Additionally, you will learn invaluable analysis techniques to make sense of brain recording data.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+This course provides hands-on experience in the data analysis of brain data, enabling you to gain a deep insight into the experiments and data employed in the cognitive neuroscience field. Furthermore, the data analysis techniques and investigative approaches you learn will be readily transferable to research in other disciplines.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+### Learning Outcomes
+- Understanding of experiments and data used in cognitive neuroscience research.
+- First hand experience with real brain recorded data, eg. EEG and fMRI.
+- Identifying and retrieving relevant information from brain data and interpreting them using data analysis techniques.
+- Learn how to develop and test a hypothesis.
 
-{% raw %}
+### Structure
+Each block of the integrated course will be structured as follows:
+1. Lecture
+2. Lab - practical component
+3. Programming assignment - start solving it together and take-home
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Schedule
 
-{% endraw %}
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wo29{border-color:#c0c0c0;text-align:left;vertical-align:top}
+.tg .tg-fzdr{border-color:#c0c0c0;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<colgroup>
+<col style="width: 80px">
+<col style="width: 350px">
+<col style="width: 100px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-wo29">April 18, 2024</td>
+    <td class="tg-wo29">Introduction to Cognitive Neuroscience</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">April 25, 2024</td>
+    <td class="tg-wo29">Introduction to electroencephalogram (EEG) data: loading and plotting raw data in Python</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">May 2, 2024</td>
+    <td class="tg-wo29">Events and artifacts in neural data</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">May 16, 2024</td>
+    <td class="tg-wo29">Introduction to event related potentials (ERPs)</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">May 23, 2024</td>
+    <td class="tg-wo29">Filtering and Time-Frequency Representation</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">May 30, 2024</td>
+    <td class="tg-wo29">Correlation, Regression, and Modeling</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">June 6, 2024</td>
+    <td class="tg-wo29">Introduction to functional magnetic resonance imaging (fMRI): loading and plotting raw data in Python</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">June 13, 2024</td>
+    <td class="tg-wo29">Masking and Visualizing fMRI data in 3D: Introduction to pycortex</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">June 20, 2024</td>
+    <td class="tg-wo29">Event-related averages of fMRI data and fMRI impulse response function</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">June 27, 2024</td>
+    <td class="tg-wo29">Multiple Regression</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">July 4, 2024</td>
+    <td class="tg-wo29">Hypothesis Testing</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">July 11, 2024</td>
+    <td class="tg-wo29">Encoding Models and Model Prediction</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">July 18, 2024</td>
+    <td class="tg-wo29">(Optional) False Discovery Rate, Complex Encoding Models &amp; Decoding</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">July 29, 2024</td>
+    <td class="tg-wo29">ORAL EXAM!</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+</tbody>
+</table>
+<br>
+
+## Exam
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wo29{border-color:#c0c0c0;text-align:left;vertical-align:top}
+.tg .tg-bx42{border-color:#c0c0c0;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<!-- <colgroup>
+<col style="width: 204px">
+<col style="width: 675px">
+</colgroup> -->
+<tbody>
+  <tr>
+    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">Date</span></td>
+    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">July 29, 2024</span></td>
+  </tr>
+  <tr>
+    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">Grading</span></td>
+    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">Graded</span></td>
+  </tr>
+  <tr>
+    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">Type</span></td>
+    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">Oral</span></td>
+  </tr>
+  <tr>
+    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">Prerequisite</span></td>
+    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">Submission of assignments</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bx42"><span style="font-weight:700;font-style:normal;text-decoration:none;background-color:transparent">Register by</span></td>
+    <td class="tg-bx42"><span style="font-weight:700;font-style:normal;text-decoration:none;background-color:transparent">July 15, 2024</span></td>
+  </tr>
+</tbody>
+</table>
