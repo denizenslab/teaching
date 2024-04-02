@@ -9,7 +9,7 @@ related_publications: false
 # redirect:
 ---
 
-![DS_CogNeuro_logo](assets/img/logo.png)
+![DS_CogNeuro_logo](assets/img/logo-480.webp)
 
 Instructor: [Anuja Negi](https://anujanegi.me/)
 - [Overview](#overview)
