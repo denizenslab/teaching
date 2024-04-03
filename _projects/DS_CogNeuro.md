@@ -2,15 +2,12 @@
 layout: page
 title: Data Science for Cognitive Neuroscience
 description: DS_CogNeuro
-img: assets/img/logo.png
+img: assets/img/logo-transparent.png
 importance: 1
 category: SoSe24
 related_publications: false
 # redirect:
 ---
-
-![DS_CogNeuro_logo](assets/img/logo-480.webp)
-
 Instructor: [Anuja Negi](https://anujanegi.me/)
 - [Overview](#overview)
 - [Content](#content)
@@ -18,6 +15,12 @@ Instructor: [Anuja Negi](https://anujanegi.me/)
   - [Structure](#structure)
 - [Schedule](#timeline)
 - [Exam](#list-of-research-papers)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/logo-transparent.png" title="DS_CogNeuro_logo" class="img-fluid rounded z-depth-1"%}
+    </div>
+</div>
 
 ## Overview
 
