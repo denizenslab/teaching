@@ -8,4 +8,5 @@ category: SoSe24
 related_publications: false
 # redirect:
 ---
+
 Instructors: Mathis Lamarre, Inés Schönmann, [Anuja Negi](https://anujanegi.me/)

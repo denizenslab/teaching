@@ -8,7 +8,9 @@ category: SoSe24
 related_publications: false
 # redirect:
 ---
+
 Instructor: [Anuja Negi](https://anujanegi.me/)
+
 - [Overview](#overview)
 - [Content](#content)
   - [Learning Outcomes](#learning-outcomes)
@@ -71,6 +73,7 @@ Instructor: [Anuja Negi](https://anujanegi.me/)
 <br>
 
 ## Content
+
 The human brain is an intricate and complex information processing system, giving rise to an exciting interdisciplinary field of research. Understanding how it works is a challenging scientific quest. In recent decades, new brain imaging techniques have allowed us to "see" the brain in action, leading to the growth of cognitive neuroscience. Cognitive neuroscience explores the neural mechanisms that underlie a wide range of cognitive functions, linking brain activity to the tasks it performs. This field fosters exciting collaborations with psychology, biology, physics, and computer science, offering a comprehensive approach to understanding the brain.
 
 If you are intrigued by the inner workings of the brain and eager to employ cutting-edge brain imaging and data analysis tools for it’s exploration, this course is tailored for you! During this course, you will acquire proficiency in utilizing Python programming for comprehending, manipulating, and exploring human brain recordings (such as ECoG, EEG, MEG, and fMRI) You will also learn how to create and test hypotheses about how the brain processes information using real data.  Additionally, you will learn invaluable analysis techniques to make sense of brain recording data.
@@ -78,13 +81,16 @@ If you are intrigued by the inner workings of the brain and eager to employ cutt
 This course provides hands-on experience in the data analysis of brain data, enabling you to gain a deep insight into the experiments and data employed in the cognitive neuroscience field. Furthermore, the data analysis techniques and investigative approaches you learn will be readily transferable to research in other disciplines.
 
 ### Learning Outcomes
+
 - Understanding of experiments and data used in cognitive neuroscience research.
 - First hand experience with real brain recorded data, eg. EEG and fMRI.
 - Identifying and retrieving relevant information from brain data and interpreting them using data analysis techniques.
 - Learn how to develop and test a hypothesis.
 
 ### Structure
+
 Each block of the integrated course will be structured as follows:
+
 1. Lecture
 2. Tutorial
 3. Programming assignment - start solving it together and take-home
@@ -182,6 +188,7 @@ Each block of the integrated course will be structured as follows:
 <br>
 
 ## Exam
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
