@@ -15,8 +15,8 @@ Instructor: [Anuja Negi](https://anujanegi.me/)
 - [Content](#content)
   - [Learning Outcomes](#learning-outcomes)
   - [Structure](#structure)
-- [Schedule](#timeline)
-- [Exam](#list-of-research-papers)
+- [Schedule](#schedule)
+- [Exam](#exam)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
