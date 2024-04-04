@@ -9,7 +9,7 @@ related_publications: false
 # redirect:
 ---
 
-Instructor: [Anuja Negi](https://anujanegi.me/)
+Instructor: [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](https://www.fatmanet.com/)
 
 - [Overview](#overview)
 - [Content](#content)

@@ -9,4 +9,4 @@ related_publications: false
 # redirect:
 ---
 
-Instructors: Mathis Lamarre, Inés Schönmann, [Anuja Negi](https://anujanegi.me/)
+Instructors: Mathis Lamarre, Inés Schönmann, [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](https://www.fatmanet.com/)
