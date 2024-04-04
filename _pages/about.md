@@ -15,4 +15,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 profile: false  # includes a profile section
 courses: true  # includes a list of projects
+seminars: true  # includes a list of seminars
 ---
