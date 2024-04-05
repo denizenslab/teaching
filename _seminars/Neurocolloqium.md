@@ -106,7 +106,7 @@ Depending in the scope of these method sections presentations should be around 1
   <tr>
     <td class="tg-wo29">April 16, 2024</td>
     <td class="tg-wo29">Dissociating language and thought in large language models</td>
-    <td class="tg-fzdr">href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00027-5"</td>
+    <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">April 23, 2024</td>
