@@ -111,62 +111,58 @@ Depending in the scope of these method sections presentations should be around 1
   </tr>
   <tr>
     <td class="tg-wo29">April 30, 2024</td>
-    <td class="tg-wo29"></td>
+    <td class="tg-wo29">Encoding and decoding in fMRI</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">May 14, 2024</td>
-    <td class="tg-wo29"></td>
+    <td class="tg-wo29">Shared functional specialization in transformer-based language models and the human brain</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">May 21, 2024</td>
-    <td class="tg-wo29"></td>
+    <td class="tg-wo29">Joint processing of linguistic properties in brains and language models</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">May 28, 2024</td>
-    <td class="tg-wo29"></td>
+    <td class="tg-wo29">Recurrent neural networks as neuro-computational
+models of human speech recognition </td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">June 4, 2024</td>
-    <td class="tg-wo29"></td>
+    <td class="tg-wo29">Combining computational controls with natural text reveals aspects of meaning composition</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">June 11, 2024</td>
-    <td class="tg-wo29"></td>
+    <td class="tg-wo29">Neural representations of concrete concepts enable identification of individuals during naturalistic story listening</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">June 18, 2024</td>
-    <td class="tg-wo29"></td>
+    <td class="tg-wo29">Beyond linear regression: mapping models in cognitive neuroscience should align with research goals</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">June 25, 2024</td>
-    <td class="tg-wo29"></td>
+    <td class="tg-wo29">BrainLM: A foundation model for brain activity recordings</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">July 2, 2024</td>
-    <td class="tg-wo29"></td>
+    <td class="tg-wo29">BrainCLIP: Bridging Brain and Visual-Linguistic Representation Via CLIP for Generic Natural Visual Stimulus Decoding</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">July 9, 2024</td>
-    <td class="tg-wo29"></td>
+    <td class="tg-wo29">From attribution maps to human-understandable explanations through Concept Relevance Propagation</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">July 16, 2024</td>
-    <td class="tg-wo29">(</td>
-    <td class="tg-fzdr">-</td>
-  </tr>
-  <tr>
-    <td class="tg-wo29">July 27, 2024</td>
-    <td class="tg-wo29"></td>
+    <td class="tg-wo29">Large-scale benchmark yields no evidence that language model surprisal explains syntactic disambiguation difficulty</td>
     <td class="tg-fzdr">-</td>
   </tr>
 </tbody>
