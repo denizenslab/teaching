@@ -17,13 +17,6 @@ Instructors: Mathis Lamarre, Inés Schönmann, [Anuja Negi](https://anujanegi.me
   - [Structure](#structure)
 - [Schedule](#schedule)
 
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/logo-transparent.png" title="DS_CogNeuro_logo" class="img-fluid rounded z-depth-1"%}
-    </div>
-</div>
-
 ## Overview
 
 <style type="text/css">
@@ -73,20 +66,23 @@ Instructors: Mathis Lamarre, Inés Schönmann, [Anuja Negi](https://anujanegi.me
 <br>
 
 ## Content
-In the neurocolloquium, we will read and discuss recent scientific publications from the field of computational cognitive neuroscience. 
-A particular focus will be on literature that uses methods from the field of computer science and artificial intelligence as means of modelling brain functions–in particular language–as represented in functional Magnetic Resonance Imaging (fMRI) data. 
+
+In the neurocolloquium, we will read and discuss recent scientific publications from the field of computational cognitive neuroscience.
+A particular focus will be on literature that uses methods from the field of computer science and artificial intelligence as means of modelling brain functions–in particular language–as represented in functional Magnetic Resonance Imaging (fMRI) data.
 
 ### Learning outcomes
-Students will become familiar with topics and debates within the field of language research and cognitive neuroscience. 
-Furthermore, they will learn to read and discuss scientific articles and gain an understanding of how computational approaches can be applied to brain research. 
+
+Students will become familiar with topics and debates within the field of language research and cognitive neuroscience.
+Furthermore, they will learn to read and discuss scientific articles and gain an understanding of how computational approaches can be applied to brain research.
 
 ### Structure
-Each week one paper will be read in advance and discussed together in detail. 
-At the beginning of the course, each student will be assigned one paper for which they will prepare a small presentation of the methods section which they will present prior to the discussion. 
-Depending in the scope of these method sections presentations should be around 10-15 minutes and should be accompanied by slides. 
 
+Each week one paper will be read in advance and discussed together in detail.
+At the beginning of the course, each student will be assigned one paper for which they will prepare a small presentation of the methods section which they will present prior to the discussion.
+Depending in the scope of these method sections presentations should be around 10-15 minutes and should be accompanied by slides.
 
 ## Schedule
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
