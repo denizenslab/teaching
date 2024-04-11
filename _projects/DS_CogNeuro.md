@@ -54,7 +54,7 @@ Instructor: [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](https://www.fatma
   </tr>
   <tr>
     <td class="tg-wo29">Time</td>
-    <td class="tg-wo29">Thursday @ 2-6pm</td>
+    <td class="tg-wo29">Wednesday  @ 2-6pm</td>
   </tr>
   <tr>
     <td class="tg-wo29">Location</td>
@@ -114,67 +114,67 @@ Each block of the integrated course will be structured as follows:
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wo29">April 18, 2024</td>
+    <td class="tg-wo29">April 17, 2024</td>
     <td class="tg-wo29">Introduction to Cognitive Neuroscience</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">April 25, 2024</td>
+    <td class="tg-wo29">April 24, 2024</td>
     <td class="tg-wo29">Introduction to electroencephalogram (EEG) data: loading and plotting raw data in Python</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">May 2, 2024</td>
+    <td class="tg-wo29">May 8, 2024</td>
     <td class="tg-wo29">Events and artifacts in neural data</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">May 16, 2024</td>
+    <td class="tg-wo29">May 15, 2024</td>
     <td class="tg-wo29">Introduction to event related potentials (ERPs)</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">May 23, 2024</td>
+    <td class="tg-wo29">May 22, 2024</td>
     <td class="tg-wo29">Filtering and Time-Frequency Representation</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">May 30, 2024</td>
+    <td class="tg-wo29">May 29, 2024</td>
     <td class="tg-wo29">Correlation, Regression, and Modeling</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">June 6, 2024</td>
+    <td class="tg-wo29">June 5, 2024</td>
     <td class="tg-wo29">Introduction to functional magnetic resonance imaging (fMRI): loading and plotting raw data in Python</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">June 13, 2024</td>
+    <td class="tg-wo29">June 12, 2024</td>
     <td class="tg-wo29">Masking and Visualizing fMRI data in 3D: Introduction to pycortex</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">June 20, 2024</td>
+    <td class="tg-wo29">June 19, 2024</td>
     <td class="tg-wo29">Event-related averages of fMRI data and fMRI impulse response function</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">June 27, 2024</td>
+    <td class="tg-wo29">June 26, 2024</td>
     <td class="tg-wo29">Multiple Regression</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">July 4, 2024</td>
+    <td class="tg-wo29">July 3, 2024</td>
     <td class="tg-wo29">Hypothesis Testing</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">July 11, 2024</td>
+    <td class="tg-wo29">July 10, 2024</td>
     <td class="tg-wo29">Encoding Models and Model Prediction</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">July 18, 2024</td>
+    <td class="tg-wo29">July 17, 2024</td>
     <td class="tg-wo29">(Optional) False Discovery Rate, Complex Encoding Models &amp; Decoding</td>
     <td class="tg-fzdr">-</td>
   </tr>
