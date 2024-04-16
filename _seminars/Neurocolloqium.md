@@ -2,7 +2,7 @@
 layout: page
 title: Neurocolloquium
 description: Journal Club
-img: #add img here, place it in /assets/img/
+img: neurocolloquium_2.png #add img here, place it in /assets/img/
 importance: 1
 category: SoSe24
 related_publications: false
