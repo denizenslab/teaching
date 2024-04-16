@@ -47,7 +47,7 @@ Instructors: Mathis Lamarre, Inés Schönmann, [Anuja Negi](https://anujanegi.me
   </tr>
   <tr>
     <td class="tg-wo29">Time</td>
-    <td class="tg-wo29">Tuesday @ 2-4pm c.t.</td>
+    <td class="tg-wo29">Thursday @ 3-4:30pm s.t.</td>
   </tr>
   <tr>
     <td class="tg-wo29">Location</td>
@@ -110,7 +110,7 @@ Depending in the scope of these method sections presentations should be around 1
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">April 28, 2024</td>
+    <td class="tg-wo29">May 2, 2024</td>
     <td class="tg-wo29">Encoding and decoding in fMRI</td>
     <td class="tg-fzdr">-</td>
   </tr>
