@@ -2,7 +2,7 @@
 layout: page
 title: Neurocolloquium
 description: Journal Club
-img: neurocolloquium_2.png #add img here, place it in /assets/img/
+img: assets/img/neurocolloquium.png #add img here, place it in /assets/img/
 importance: 1
 category: SoSe24
 related_publications: false
@@ -19,7 +19,7 @@ Instructors: Mathis Lamarre, Inés Schönmann, [Anuja Negi](https://anujanegi.me
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/neurocolloquium_2.png" title="neurocolloquium_logo" class="img-fluid rounded z-depth-1"%}
+        {% include figure.liquid loading="eager" path="assets/img/neurocolloquium.png" title="neurocolloquium_logo" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
 
