@@ -110,13 +110,17 @@ Each block of the integrated course will be structured as follows:
 <colgroup>
 <col style="width: 80px">
 <col style="width: 350px">
-<col style="width: 100px">
+<col style="width: 150px">
 </colgroup>
 <tbody>
   <tr>
     <td class="tg-wo29">April 17, 2024</td>
     <td class="tg-wo29">Introduction to Cognitive Neuroscience</td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">
+    <a href='https://drive.google.com/file/d/1TU8StI_0vQHci6bk_guV_xfHPXFbTxGL/view?usp=sharing'>[organisation]</a>
+    <a href='https://drive.google.com/file/d/1V6hi9I5calkDbRgAf84GaSVd63eI5pGG/view?usp=sharing'>[lecture]</a>
+    <a href='https://drive.google.com/file/d/11pdwmaGBK1gPmZ1YcykXYL7QloFZZNYb/view?usp=sharing'>[extra]</a>
+    </td>
   </tr>
   <tr>
     <td class="tg-wo29">April 24, 2024</td>
