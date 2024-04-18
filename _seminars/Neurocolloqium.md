@@ -45,7 +45,7 @@ Instructors: Mathis Lamarre, Inés Schönmann, [Anuja Negi](https://anujanegi.me
   </tr>
   <tr>
     <td class="tg-wo29">Credits</td>
-    <td class="tg-wo29"> ECTS</td>
+    <td class="tg-wo29">3 ECTS</td>
   </tr>
   <tr>
     <td class="tg-wo29">Lecture Period</td>
