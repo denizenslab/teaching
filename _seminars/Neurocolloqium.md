@@ -53,11 +53,11 @@ Instructors: Mathis Lamarre, Inés Schönmann, [Anuja Negi](https://anujanegi.me
   </tr>
   <tr>
     <td class="tg-wo29">Time</td>
-    <td class="tg-wo29">Thursday @ 3-4:30pm s.t.</td>
+    <td class="tg-wo29">Thursday @ 3-4:30pm</td>
   </tr>
   <tr>
     <td class="tg-wo29">Location</td>
-    <td class="tg-wo29"><a href="https://maps.app.goo.gl/MhXJw12oPjEhnDbt6" target="_blank" rel="noopener noreferrer">MAR 5.060</a></td>
+    <td class="tg-wo29"><a href="https://maps.app.goo.gl/MhXJw12oPjEhnDbt6" target="_blank" rel="noopener noreferrer">MAR 5.044</a></td>
   </tr>
   <tr>
     <td class="tg-wo29">Course Website</td>
