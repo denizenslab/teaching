@@ -117,15 +117,20 @@ Each block of the integrated course will be structured as follows:
     <td class="tg-wo29">April 17, 2024</td>
     <td class="tg-wo29">Introduction to Cognitive Neuroscience</td>
     <td class="tg-fzdr">
-    <a href='https://drive.google.com/file/d/1TU8StI_0vQHci6bk_guV_xfHPXFbTxGL/view?usp=sharing'>[organisation]</a>
-    <a href='https://drive.google.com/file/d/1V6hi9I5calkDbRgAf84GaSVd63eI5pGG/view?usp=sharing'>[lecture]</a>
-    <a href='https://drive.google.com/file/d/11pdwmaGBK1gPmZ1YcykXYL7QloFZZNYb/view?usp=sharing'>[extra]</a>
+      <a href='https://drive.google.com/file/d/1TU8StI_0vQHci6bk_guV_xfHPXFbTxGL/view?usp=sharing'>[organisation]</a>
+      <a href='https://drive.google.com/file/d/1V6hi9I5calkDbRgAf84GaSVd63eI5pGG/view?usp=sharing'>[lecture]</a>
+      <a href='https://drive.google.com/file/d/11pdwmaGBK1gPmZ1YcykXYL7QloFZZNYb/view?usp=sharing'>[extra]</a>
     </td>
   </tr>
   <tr>
     <td class="tg-wo29">April 24, 2024</td>
     <td class="tg-wo29">Introduction to electroencephalogram (EEG) data: loading and plotting raw data in Python</td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">
+      <a href='https://drive.google.com/file/d/17ybJ2a1OxAspQsEQRYNfLJ1pNODbqfRx/view?usp=sharing'>[lecture]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek2%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek2%2Fassignment.ipynb&branch=main'>[assignment]</a>
+    </td>
+    
   </tr>
   <tr>
     <td class="tg-wo29">May 8, 2024</td>
