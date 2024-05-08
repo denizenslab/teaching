@@ -135,7 +135,9 @@ Each block of the integrated course will be structured as follows:
   <tr>
     <td class="tg-wo29">May 8, 2024</td>
     <td class="tg-wo29">Events and artifacts in neural data</td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek3%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
+    </td>
   </tr>
   <tr>
     <td class="tg-wo29">May 15, 2024</td>
