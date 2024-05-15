@@ -144,7 +144,11 @@ Each block of the integrated course will be structured as follows:
   <tr>
     <td class="tg-wo29">May 15, 2024</td>
     <td class="tg-wo29">Introduction to event related potentials (ERPs)</td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">
+      <a href='https://drive.google.com/file/d/1EJDxFt738TluOlUUGYvLLj2P_6mPDOWW/view?usp=sharing'>[lecture]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek4%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek4%2Fassignment.ipynb&branch=main'>[assignment]</a>
+    </td>
   </tr>
   <tr>
     <td class="tg-wo29">May 22, 2024</td>
