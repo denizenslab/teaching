@@ -153,11 +153,12 @@ Each block of the integrated course will be structured as follows:
   <tr>
     <td class="tg-wo29">May 22, 2024</td>
     <td class="tg-wo29">Filtering and Time-Frequency Representation</td>
+    <td class="tg-fzdr">
       <a href='https://drive.google.com/file/d/1iulkC3d3SRfRltg4brT-m05n_qd-DPgi/view?usp=sharing'>[lecture]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek5%2Frecap.ipynb&branch=main'>[recap]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek5%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek5%2Fassignment.ipynb&branch=main'>[assignment]</a>
-    <td class="tg-fzdr">-</td>
+    </td>
   </tr>
   <tr>
     <td class="tg-wo29">May 29, 2024</td>
