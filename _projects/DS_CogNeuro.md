@@ -184,7 +184,6 @@ Each block of the integrated course will be structured as follows:
     <td class="tg-wo29">Masking and Visualizing fMRI data in 3D: Introduction to pycortex</td>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek8%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek8%2Fassignment.ipynb&branch=main'>[assignment]</a>
-
     <td class="tg-fzdr">-</td>
 
   </tr>
