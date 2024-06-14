@@ -127,7 +127,7 @@ Depending in the scope of these method sections presentations should be around 1
   </tr>
   <tr>
     <td class="tg-wo29">May 30, 2024</td>
-    <td class="tg-wo29">Joint processing of linguistic properties in brains and language models</td>
+    <td class="tg-wo29">-</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
@@ -138,17 +138,21 @@ models of human speech recognition </td>
   </tr>
   <tr>
     <td class="tg-wo29">June 13, 2024</td>
-    <td class="tg-wo29">Combining computational controls with natural text reveals aspects of meaning composition</td>
+    <td class="tg-wo29">Joint processing of linguistic properties in brains and language models
+    </td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">June 20, 2024</td>
-    <td class="tg-wo29">Neural representations of concrete concepts enable identification of individuals during naturalistic story listening</td>
+    <td class="tg-wo29">-</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">June 27, 2024</td>
-    <td class="tg-wo29">Beyond linear regression: mapping models in cognitive neuroscience should align with research goals</td>
+    <td class="tg-wo29">Order tbd as we will see which papers we can do during the same week.
+    1: Neural representations of concrete concepts enable identification of individuals during naturalistic story listening
+    2: Combining computational controls with natural text reveals aspects of meaning composition
+    3: Beyond linear regression: mapping models in cognitive neuroscience should align with research goals</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
