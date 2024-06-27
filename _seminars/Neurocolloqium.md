@@ -155,9 +155,7 @@ models of human speech recognition </td>
   </tr>
   <tr>
     <td class="tg-wo29">July 4, 2024</td>
-    <td class="tg-wo29">Order tbd as we will see which papers we can do during the same week.
-    1: Beyond linear regression: mapping models in cognitive neuroscience should align with research goals
-    2: BrainLM: A foundation model for brain activity recordings</td>
+    <td class="tg-wo29">BrainLM: A foundation model for brain activity recordings</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
@@ -167,12 +165,7 @@ models of human speech recognition </td>
   </tr>
   <tr>
     <td class="tg-wo29">July 18, 2024</td>
-    <td class="tg-wo29">From attribution maps to human-understandable explanations through Concept Relevance Propagation</td>
-    <td class="tg-fzdr">-</td>
-  </tr>
-  <tr>
-    <td class="tg-wo29">July 18, 2024</td>
-    <td class="tg-wo29">Large-scale benchmark yields no evidence that language model surprisal explains syntactic disambiguation difficulty</td>
+    <td class="tg-wo29">Beyond linear regression: mapping models in cognitive neuroscience should align with research goals</td>
     <td class="tg-fzdr">-</td>
   </tr>
 </tbody>
