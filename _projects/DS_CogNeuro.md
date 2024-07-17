@@ -233,7 +233,7 @@ Each block of the integrated course will be structured as follows:
     </td>
   </tr>
   <tr>
-    <td class="tg-wo29">July 29, 2024</td>
+    <td class="tg-wo29">Aug 15-16, 2024</td>
     <td class="tg-wo29">ORAL EXAM!</td>
     <td class="tg-fzdr">-</td>
   </tr>
