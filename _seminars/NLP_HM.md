@@ -14,7 +14,6 @@ Instructors: [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](https://www.fatm
 - [Overview](#overview)
 - [Content](#content)
   - [Learning Outcomes](#learning-outcomes)
-  - [Structure](#structure)
 - [Schedule](#schedule)
 
 <div class="row">
@@ -83,10 +82,6 @@ During the seminar, students will learn:
 - to identify and present examples of relevant real-world application fields of the scientific publication,
 - to give a good scientific presentation to peers that is precise, informative, and engaging,
 - to summarize and write a concise technical report including a critical discussion of the research paper (with additional literature research)
-
-### Structure
-
-In
 
 ## Schedule
 
