@@ -9,7 +9,7 @@ related_publications: false
 # redirect:
 ---
 
-Instructors: [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](https://www.fatmanet.com/)
+Instructors: [Anuja Negi](https://anujanegi.me/), Mathis Lamarre, [Fatma Deniz](https://www.fatmanet.com/)
 
 - [Overview](#overview)
 - [Content](#content)
