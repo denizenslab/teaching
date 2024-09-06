@@ -18,6 +18,7 @@ courses: true  # includes a list of projects
 seminars: true  # includes a list of seminars
 ---
 
+<!--
 <br>
 ## schedule SoSe 2024
 <style type="text/css">
@@ -77,4 +78,4 @@ seminars: true  # includes a list of seminars
   </tr>
 </tbody>
 </table>
-<br>
+<br> -->
