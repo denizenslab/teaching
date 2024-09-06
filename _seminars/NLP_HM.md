@@ -60,7 +60,7 @@ Instructors: [Anuja Negi](https://anujanegi.me/), Mathis Lamarre, [Fatma Deniz](
   </tr>
   <tr>
     <td class="tg-wo29">Course Website</td>
-    <td class="tg-wo29"><a href="https://denizenslab.github.io/teaching/seminars/NLP_HH/" target="_blank" rel="noopener noreferrer">Webpage</a></td>
+    <td class="tg-wo29"><a href="https://denizenslab.github.io/teaching/seminars/NLP_HM/" target="_blank" rel="noopener noreferrer">Webpage</a></td>
   </tr>
   <!-- <tr>
     <td class="tg-wo29">ISIS</td>
