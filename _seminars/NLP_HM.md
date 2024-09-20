@@ -47,16 +47,28 @@ Instructors: [Anuja Negi](https://anujanegi.me/), Mathis Lamarre, [Fatma Deniz](
     <td class="tg-wo29">3 ECTS</td>
   </tr>
   <tr>
+    <td class="tg-wo29">Grading</td>
+    <td class="tg-wo29">20% participation, 40% presentation, 40% report</td>
+  </tr>
+  <tr>
     <td class="tg-wo29">Lecture Period</td>
     <td class="tg-wo29">7-10 Oct and 18 Oct 2024</td>
   </tr>
   <tr>
+    <td class="tg-wo29">Report submission deadline</td>
+    <td class="tg-wo29">Nov 01, 2024</td>
+  </tr>
+  <tr>
     <td class="tg-wo29">Time</td>
-    <td class="tg-wo29">10am-5pm</td>
+    <td class="tg-wo29">10am-5pm, incl. 1-2h lunch break</td>
   </tr>
   <tr>
     <td class="tg-wo29">Location</td>
     <td class="tg-wo29"><a href="https://maps.app.goo.gl/MhXJw12oPjEhnDbt6" target="_blank" rel="noopener noreferrer">MAR 5.044</a></td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">Maxmimum number of participants</td>
+    <td class="tg-wo29">10</td>
   </tr>
   <tr>
     <td class="tg-wo29">Course Website</td>
@@ -72,7 +84,7 @@ Instructors: [Anuja Negi](https://anujanegi.me/), Mathis Lamarre, [Fatma Deniz](
 
 ## Content
 
-In this block seminar, students will learn about selected research topics in natural language processing in humans and machines. In addition, an introduction to cognitive computational neuroscience, reading scientific papers, learning how to give a good presentation, and how to write a technical report.
+In this block seminar, students will learn about selected research topics in natural language processing in humans and machines. In addition, students will get hands-on experience fostering their own and each others' learning through reading scientific papers and giving a presentation.
 
 ### Learning outcomes
 
@@ -80,8 +92,8 @@ During the seminar, students will learn:
 
 - to read and examine the scientific literature critically,
 - to identify and present examples of relevant real-world application fields of the scientific publication,
-- to give a good scientific presentation to peers that is precise, informative, and engaging,
-- to summarize and write a concise technical report including a critical discussion of the research paper (with additional literature research)
+- to give a good scientific presentation to peers that is precise, informative, and engaging.
+# - to summarize and write a concise technical report including a critical discussion of the research paper (with additional literature research)
 
 ## Schedule
 
@@ -103,22 +115,22 @@ During the seminar, students will learn:
 <tbody>
   <tr>
     <td class="tg-wo29">Oct 7, 2024</td>
-    <td class="tg-wo29">TBA</td>
+    <td class="tg-wo29">Introduction: NLP basics</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">Oct 8, 2024</td>
-    <td class="tg-wo29">TBA</td>
+    <td class="tg-wo29">Introduction: NLP advanced</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">Oct 9, 2024</td>
-    <td class="tg-wo29">TBA</td>
+    <td class="tg-wo29">Tutorial: How to read a paper (NLP in machines)</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">Oct 10, 2024</td>
-    <td class="tg-wo29">TBA</td>
+    <td class="tg-wo29">Tutorial: How to present (NLP in humans)</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
