@@ -9,7 +9,7 @@ related_publications: false
 # redirect:
 ---
 
-Instructors: [Anuja Negi](https://anujanegi.me/), Mathis Lamarre, [Fatma Deniz](https://www.fatmanet.com/)
+Instructors: [Anuja Negi](https://anujanegi.me/), Mathis Lamarre, [Subba Reddy Oota](https://sites.google.com/view/subbareddyoota300/home), [Fatma Deniz](https://www.fatmanet.com/)
 
 - [Overview](#overview)
 - [Content](#content)
@@ -56,18 +56,18 @@ Instructors: [Anuja Negi](https://anujanegi.me/), Mathis Lamarre, [Fatma Deniz](
   </tr>
   <tr>
     <td class="tg-wo29">Report submission deadline</td>
-    <td class="tg-wo29">Nov 01, 2024</td>
+    <td class="tg-wo29">Nov 1, 2024</td>
   </tr>
   <tr>
     <td class="tg-wo29">Time</td>
-    <td class="tg-wo29">10am-5pm, incl. 1-2h lunch break</td>
+    <td class="tg-wo29">10am-5pm, incl. 1h lunch break</td>
   </tr>
   <tr>
     <td class="tg-wo29">Location</td>
     <td class="tg-wo29"><a href="https://maps.app.goo.gl/MhXJw12oPjEhnDbt6" target="_blank" rel="noopener noreferrer">MAR 5.044</a></td>
   </tr>
   <tr>
-    <td class="tg-wo29">Maxmimum number of participants</td>
+    <td class="tg-wo29">Max. number of participants</td>
     <td class="tg-wo29">10</td>
   </tr>
   <tr>
@@ -93,7 +93,6 @@ During the seminar, students will learn:
 - to read and examine the scientific literature critically,
 - to identify and present examples of relevant real-world application fields of the scientific publication,
 - to give a good scientific presentation to peers that is precise, informative, and engaging.
-# - to summarize and write a concise technical report including a critical discussion of the research paper (with additional literature research)
 
 ## Schedule
 
