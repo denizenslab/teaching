@@ -82,6 +82,8 @@ Instructors: [Anuja Negi](https://anujanegi.me/), Mathis Lamarre, [Subba Reddy O
 </table>
 <br>
 
+IMPORTANT: Attendance of the first session is required to activate the registration!
+
 ## Content
 
 In this block seminar, students will learn about selected research topics in natural language processing in humans and machines. In addition, students will get hands-on experience fostering their own and each others' learning through reading scientific papers and giving a presentation.
