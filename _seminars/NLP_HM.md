@@ -71,8 +71,8 @@ Instructors: [Anuja Negi](https://anujanegi.me/), Mathis Lamarre, [Subba Reddy O
     <td class="tg-wo29">20</td>
   </tr>
   <tr>
-    <td class="tg-wo29">Course Website</td>
-    <td class="tg-wo29"><a href="https://denizenslab.github.io/teaching/seminars/NLP_HM/" target="_blank" rel="noopener noreferrer">Webpage</a></td>
+    <td class="tg-wo29">TU ISIS page</td>
+    <td class="tg-wo29"><a href="https://isis.tu-berlin.de/course/view.php?id=40430" target="_blank" rel="noopener noreferrer">Webpage</a></td>
   </tr>
   <!-- <tr>
     <td class="tg-wo29">ISIS</td>
