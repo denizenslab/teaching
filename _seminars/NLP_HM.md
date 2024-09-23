@@ -68,7 +68,7 @@ Instructors: [Anuja Negi](https://anujanegi.me/), Mathis Lamarre, [Subba Reddy O
   </tr>
   <tr>
     <td class="tg-wo29">Max. number of participants</td>
-    <td class="tg-wo29">10</td>
+    <td class="tg-wo29">20</td>
   </tr>
   <tr>
     <td class="tg-wo29">Course Website</td>
@@ -90,6 +90,7 @@ In this block seminar, students will learn about selected research topics in nat
 
 During the seminar, students will learn:
 
+- basic and advanced hands-on knowledge in natural language processing techniques,
 - to read and examine the scientific literature critically,
 - to identify and present examples of relevant real-world application fields of the scientific publication,
 - to give a good scientific presentation to peers that is precise, informative, and engaging.
@@ -114,22 +115,22 @@ During the seminar, students will learn:
 <tbody>
   <tr>
     <td class="tg-wo29">Oct 7, 2024</td>
-    <td class="tg-wo29">Introduction: NLP basics</td>
+    <td class="tg-wo29">NLP basics (lecture & tutorial)</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">Oct 8, 2024</td>
-    <td class="tg-wo29">Introduction: NLP advanced</td>
+    <td class="tg-wo29">NLP advanced (lecture & tutorial)</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">Oct 9, 2024</td>
-    <td class="tg-wo29">Tutorial: How to read a paper (NLP in machines)</td>
+    <td class="tg-wo29">NLP in Machines & How to read a paper </td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">Oct 10, 2024</td>
-    <td class="tg-wo29">Tutorial: How to present (NLP in humans)</td>
+    <td class="tg-wo29">NLP in humans & How to present</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
