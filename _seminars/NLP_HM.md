@@ -82,7 +82,9 @@ Instructors: [Anuja Negi](https://anujanegi.me/), Mathis Lamarre, [Subba Reddy O
 </table>
 <br>
 
-IMPORTANT: Attendance of the first session is required to activate the registration!
+## Please note
+Attendance of the first session is required to activate the registration!
+Individual laptops are required during this seminar.
 
 ## Content
 
