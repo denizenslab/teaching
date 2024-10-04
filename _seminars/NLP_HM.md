@@ -64,7 +64,7 @@ Instructors: [Anuja Negi](https://anujanegi.me/), Mathis Lamarre, [Subba Reddy O
   </tr>
   <tr>
     <td class="tg-wo29">Location</td>
-    <td class="tg-wo29"><a href="https://maps.app.goo.gl/MhXJw12oPjEhnDbt6" target="_blank" rel="noopener noreferrer">MAR 5.061</a></td>
+    <td class="tg-wo29"><a href="https://maps.app.goo.gl/MhXJw12oPjEhnDbt6" target="_blank" rel="noopener noreferrer">MAR 5.060</a></td>
   </tr>
   <tr>
     <td class="tg-wo29">Max. number of participants</td>
