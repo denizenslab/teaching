@@ -120,7 +120,11 @@ During the seminar, students will learn:
   <tr>
     <td class="tg-wo29">Oct 7, 2024</td>
     <td class="tg-wo29">NLP basics (lecture & tutorial)</td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">
+      <a href='https://docs.google.com/presentation/d/17PcfpRJc1UNEICHQ2HSRBvqB1q8p-ypJPqXEe4kqc28/edit?usp=sharing'>[intro]</a>
+      <a href='https://docs.google.com/presentation/d/1oYrTYdfmOy09gSWsTW1GL4tJ-qOLh-bjsOzl8fzISsA/edit?usp=sharing'>[lecture]</a>
+      <a href='https://colab.research.google.com/github/denizenslab/NLP_HM/blob/main/day1/NLP_HM_Day1_tutorial.ipynb'>[tutorial]</a> 
+    </td>
   </tr>
   <tr>
     <td class="tg-wo29">Oct 8, 2024</td>
