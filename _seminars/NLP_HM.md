@@ -129,7 +129,10 @@ During the seminar, students will learn:
   <tr>
     <td class="tg-wo29">Oct 8, 2024</td>
     <td class="tg-wo29">NLP advanced (lecture & tutorial)</td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">
+      <a href='https://docs.google.com/presentation/d/1_cFVo2MZ2eUWHkXeOP4Xvt81rfTVX0E-XSR2yGLJVLM/edit?usp=sharing'>[lecture]</a>
+      <a href='https://colab.research.google.com/github/denizenslab/NLP_HM/blob/main/day2/NLP_HM_Day2_tutorial.ipynb'>[tutorial]</a>
+    </td>
   </tr>
   <tr>
     <td class="tg-wo29">Oct 9, 2024</td>
