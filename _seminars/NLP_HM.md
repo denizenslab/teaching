@@ -137,7 +137,12 @@ During the seminar, students will learn:
   <tr>
     <td class="tg-wo29">Oct 9, 2024</td>
     <td class="tg-wo29">NLP in Machines & How to read a paper </td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">
+      <a href='https://docs.google.com/presentation/d/10cwcjTLuckcwFj5R5yk15Pagqn65dinGEiviqRgna0w/edit?usp=sharing'>[read_write_paper]</a>
+      <a href='https://docs.google.com/presentation/d/1HDSMg4dkYoHeWL9VHKkTLFMBIkoJfSki/edit?usp=sharing&ouid=114906290782474348986&rtpof=true&sd=true'>[lecture]</a>
+      <a href='https://colab.research.google.com/github/denizenslab/NLP_HM/blob/main/day3/NLP_HM_Day3_tutorial.ipynb'>[tutorial1]</a>
+      <a href='https://colab.research.google.com/github/denizenslab/NLP_HM/blob/main/day3/NLP_HM_DAY3_BERT.ipynb'>[tutorial2]</a>
+      </td>
   </tr>
   <tr>
     <td class="tg-wo29">Oct 10, 2024</td>
