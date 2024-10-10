@@ -147,7 +147,12 @@ During the seminar, students will learn:
   <tr>
     <td class="tg-wo29">Oct 10, 2024</td>
     <td class="tg-wo29">NLP in humans & How to present</td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">
+      <a href='https://docs.google.com/presentation/d/1RtLOTMYBDMFZdHxe4N3qrLyGXe8rhdLC8MhuveTc8ko/edit?usp=sharing'>[how_to_present]</a>
+      <a href='https://docs.google.com/presentation/d/19vsvOOHmE3gTLEZgfwrrg0t2JKMwg62h/edit?usp=sharing&ouid=114906290782474348986&rtpof=true&sd=true'>[neuro_primer]</a>
+      <a href='https://docs.google.com/presentation/d/1EpDIu5xMQtB3mFjrLUK5emtuYSSjH7ys/edit?usp=sharing&ouid=114906290782474348986&rtpof=true&sd=true'>[lecture]</a>
+      <a href='https://colab.research.google.com/github/denizenslab/NLP_HM/blob/main/day4/NLP_HM_Day4_tutorial.ipynb'>[tutorial]</a>
+    </td>
   </tr>
   <tr>
     <td class="tg-wo29">Oct 18, 2024</td>
