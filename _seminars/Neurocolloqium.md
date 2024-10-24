@@ -108,13 +108,13 @@ Depending in the scope of these method sections, presentations should be around 
   </tr>
   <tr>
     <td class="tg-wo29">Oct 24, 2024</td>
-    <td class="tg-wo29"><a href="https://www.nature.com/articles/s41586-024-07643-2" target="_blank" rel="noopener noreferrer">Semantic encoding during language comprehension at single-cell resolution</a></td>
-    <td class="tg-fzdr"> </td>
+    <td class="tg-wo29">–cancelled–</td>
+    <td class="tg-fzdr">–</td>
   </tr>
   <tr>
     <td class="tg-wo29">Oct 31, 2024</td>
     <td class="tg-wo29"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Scaling laws for language encoding models in fMRI</a></td>
-    <td class="tg-fzdr"> </td>
+    <td class="tg-fzdr">Mathis Lamarre</td>
   </tr>
   <tr>
     <td class="tg-wo29">Nov 7, 2024</td>
