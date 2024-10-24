@@ -61,7 +61,7 @@ Instructors: Mathis Lamarre, [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](
   </tr>
   <tr>
     <td class="tg-wo29">ISIS</td>
-    <td class="tg-wo29"><a href="https://isis.tu-berlin.de/course/view.php?id=39040" target="_blank" rel="noopener noreferrer">link</a></td>
+    <td class="tg-wo29"><a href="https://isis.tu-berlin.de/course/view.php?id=40431" target="_blank" rel="noopener noreferrer">link</a></td>
   </tr>
 </tbody>
 </table>
