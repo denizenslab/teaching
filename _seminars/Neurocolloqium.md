@@ -118,12 +118,12 @@ Depending in the scope of these method sections, presentations should be around 
   </tr>
   <tr>
     <td class="tg-wo29">Nov 7, 2024</td>
-    <td class="tg-wo29"><a href="https://www.nature.com/articles/s41598-023-42891-8" target="_blank" rel="noopener noreferrer">Natural scene reconstruction from fMRI signals using generative latent diffusion</a></td>
+    <td class="tg-wo29"><a href="https://arxiv.org/abs/2410.09230" target="_blank" rel="noopener noreferrer">Improving semantic understanding in speech language models via brain-tuning</a></td>
     <td class="tg-fzdr"> </td>
   </tr>
   <tr>
     <td class="tg-wo29">Nov 14, 2024</td>
-    <td class="tg-wo29"><a href="https://www.biorxiv.org/content/10.1101/2024.07.02.601683v1" target="_blank" rel="noopener noreferrer">A 3.5-minute-long reading-based fMRI localizer for the language network</a></td>
+    <td class="tg-wo29"><a href="https://link.springer.com/article/10.1007/s42113-024-00217-5" target="_blank" rel="noopener noreferrer">Reclaiming AI as a Theoretical Tool for Cognitive Science</a></td>
     <td class="tg-fzdr"> </td>
   </tr>
   <tr>
@@ -138,13 +138,17 @@ Depending in the scope of these method sections, presentations should be around 
   </tr>
   <tr>
     <td class="tg-wo29">Dec 5, 2024</td>
-    <td class="tg-wo29"><a href="https://www.nature.com/articles/s41586-024-07566-y" target="_blank" rel="noopener noreferrer">AI models collapse when trained on recursively generated data</a></td>
+    <td class="tg-wo29"><a href="https://www.researchsquare.com/article/rs-3913308/v1" target="_blank" rel="noopener noreferrer">Multimodality and Attention Increase Alignment in Natural Language Prediction Between Humans and Computational Models</a></td>
+    <td class="tg-fzdr"> </td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">Dec 12, 2024</td>
+    <td class="tg-wo29"><a href="https://www.cell.com/neuron/fulltext/S0896-6273(24)00460-4?uuid=uuid%3A559a853a-8ac8-4960-b2bb-298a8a3278c2" target="_blank" rel="noopener noreferrer">A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations</a></td>
     <td class="tg-fzdr"> </td>
   </tr>
   <tr>
     <td class="tg-wo29">Dec 19, 2024</td>
-    <td class="tg-wo29"><a href="https://openreview.net/pdf?id=vbtj05J68r" target="_blank" rel="noopener noreferrer">Position: Maximizing Neural Regression Scores May
-Not Identify Good Models of the Brain</a></td>
+    <td class="tg-wo29"><a href="https://www.sciencedirect.com/science/article/pii/S0166223624001838" target="_blank" rel="noopener noreferrer">Principles of intensive human neuroimaging</a></td>
     <td class="tg-fzdr"> </td>
   </tr>
   <tr>
