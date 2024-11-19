@@ -119,32 +119,32 @@ Depending in the scope of these method sections, presentations should be around 
   <tr>
     <td class="tg-wo29">Nov 7, 2024</td>
     <td class="tg-wo29"><a href="https://arxiv.org/abs/2410.09230" target="_blank" rel="noopener noreferrer">Improving semantic understanding in speech language models via brain-tuning</a></td>
-    <td class="tg-fzdr"> </td>
+    <td class="tg-fzdr">Subba Reddy Oota</td>
   </tr>
   <tr>
     <td class="tg-wo29">Nov 14, 2024</td>
     <td class="tg-wo29"><a href="https://link.springer.com/article/10.1007/s42113-024-00217-5" target="_blank" rel="noopener noreferrer">Reclaiming AI as a Theoretical Tool for Cognitive Science</a></td>
-    <td class="tg-fzdr"> </td>
+    <td class="tg-fzdr">Ryan Gelston</td>
   </tr>
   <tr>
     <td class="tg-wo29">Nov 21, 2024</td>
     <td class="tg-wo29"><a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002797" target="_blank" rel="noopener noreferrer">Longitudinal single-subject neuroimaging study reveals effects of daily environmental, physiological, and lifestyle factors on functional brain connectivity</a></td>
-    <td class="tg-fzdr"> </td>
+    <td class="tg-fzdr">Anuja Negi</td>
   </tr>
   <tr>
     <td class="tg-wo29">Nov 28, 2024</td>
     <td class="tg-wo29"><a href="https://arxiv.org/abs/2406.19087?s=09" target="_blank" rel="noopener noreferrer">Dimensions underlying the representational alignment of deep neural networks with humans</a></td>
-    <td class="tg-fzdr"> </td>
+    <td class="tg-fzdr">Hector Mendoza</td>
   </tr>
   <tr>
     <td class="tg-wo29">Dec 5, 2024</td>
     <td class="tg-wo29"><a href="https://www.researchsquare.com/article/rs-3913308/v1" target="_blank" rel="noopener noreferrer">Multimodality and Attention Increase Alignment in Natural Language Prediction Between Humans and Computational Models</a></td>
-    <td class="tg-fzdr"> </td>
+    <td class="tg-fzdr">Bonnie Brader</td>
   </tr>
   <tr>
     <td class="tg-wo29">Dec 12, 2024</td>
     <td class="tg-wo29"><a href="https://www.cell.com/neuron/fulltext/S0896-6273(24)00460-4?uuid=uuid%3A559a853a-8ac8-4960-b2bb-298a8a3278c2" target="_blank" rel="noopener noreferrer">A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations</a></td>
-    <td class="tg-fzdr"> </td>
+    <td class="tg-fzdr">Bernardo Ortega</td>
   </tr>
   <tr>
     <td class="tg-wo29">Dec 19, 2024</td>
@@ -165,17 +165,17 @@ Abstraction Process in Language Models</a></td>
   <tr>
     <td class="tg-wo29">Jan 23, 2024</td>
     <td class="tg-wo29"><a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002622" target="_blank" rel="noopener noreferrer">Negation mitigates rather than inverts the neural representations of adjectives</a></td>
-    <td class="tg-fzdr"> </td>
+    <td class="tg-fzdr">Bonnie Brader</td>
   </tr>
   <tr>
     <td class="tg-wo29">Jan 30, 2024</td>
     <td class="tg-wo29"><a href="https://www.biorxiv.org/content/10.1101/2024.06.23.600044v2" target="_blank" rel="noopener noreferrer">Pronouns reactivate conceptual representations in human hippocampal neurons</a></td>
-    <td class="tg-fzdr"> </td>
+    <td class="tg-fzdr">Bernardo Ortega</td>
   </tr>
   <tr>
     <td class="tg-wo29">Feb 6, 2024</td>
     <td class="tg-wo29"><a href="https://www.sciencedirect.com/science/article/pii/S1053811924002696" target="_blank" rel="noopener noreferrer">Stacked regressions and structured variance partitioning for interpretable brain maps</a></td>
-    <td class="tg-fzdr"> </td>
+    <td class="tg-fzdr">Hector Mendoza</td>
   </tr>
   <tr>
     <td class="tg-wo29">Feb 13, 2024</td>
