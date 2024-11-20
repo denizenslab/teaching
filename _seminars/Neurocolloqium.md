@@ -160,7 +160,7 @@ Depending in the scope of these method sections, presentations should be around 
     <td class="tg-wo29">Jan 16, 2024</td>
     <td class="tg-wo29"><a href="https://arxiv.org/pdf/2409.05771" target="_blank" rel="noopener noreferrer">Evidence from fMRI Supports a Two-Phase
 Abstraction Process in Language Models</a></td>
-    <td class="tg-fzdr"> </td>
+    <td class="tg-fzdr">Ryan Gelston</td>
   </tr>
   <tr>
     <td class="tg-wo29">Jan 23, 2024</td>
@@ -180,7 +180,7 @@ Abstraction Process in Language Models</a></td>
   <tr>
     <td class="tg-wo29">Feb 13, 2024</td>
     <td class="tg-wo29"><a href="https://www.nature.com/articles/s41583-024-00802-4.epdf?sharing_token=iAQ56MsbMFkBzzJz6Bsx3dRgN0jAjWel9jnR3ZoTv0P7eT-pnyc10ZCsQi0HgiFIs_FKMK4ze-ilFT6Hg68mJm-VK_l9DTQqcQ8ZNOZSZeVGbZxsfQgPxKHLIGdTIbnHQFALU7g-yPRCqele7F3WKUlagKX4fXKbB1_6AFC2wgk%3D" target="_blank" rel="noopener noreferrer">The language network as a natural kind within the broader landscape of the human brain</a></td>
-    <td class="tg-fzdr"> </td>
+    <td class="tg-fzdr">Ryan Gelston</td>
   </tr>
   
 </tbody>
