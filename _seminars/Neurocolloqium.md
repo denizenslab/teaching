@@ -138,8 +138,8 @@ Depending in the scope of these method sections, presentations should be around 
   </tr>
   <tr>
     <td class="tg-wo29">Dec 5, 2024</td>
-    <td class="tg-wo29"><a href="https://www.researchsquare.com/article/rs-3913308/v1" target="_blank" rel="noopener noreferrer">Multimodality and Attention Increase Alignment in Natural Language Prediction Between Humans and Computational Models</a></td>
-    <td class="tg-fzdr">Bonnie Brader</td>
+    <td class="tg-wo29"><a href="https://www.sciencedirect.com/science/article/pii/S0166223624001838" target="_blank" rel="noopener noreferrer">Principles of intensive human neuroimaging</a></td>
+    <td class="tg-fzdr">Lily Gong</td>
   </tr>
   <tr>
     <td class="tg-wo29">Dec 12, 2024</td>
@@ -148,8 +148,9 @@ Depending in the scope of these method sections, presentations should be around 
   </tr>
   <tr>
     <td class="tg-wo29">Dec 19, 2024</td>
-    <td class="tg-wo29"><a href="https://www.sciencedirect.com/science/article/pii/S0166223624001838" target="_blank" rel="noopener noreferrer">Principles of intensive human neuroimaging</a></td>
-    <td class="tg-fzdr"> </td>
+    <td class="tg-wo29"><a href="https://www.researchsquare.com/article/rs-3913308/v1" target="_blank" rel="noopener noreferrer">Multimodality and Attention Increase Alignment in Natural Language Prediction Between Humans and Computational Models</a></td>
+    <td class="tg-fzdr">Bonnie Brader</td>
+    
   </tr>
   <tr>
     <td class="tg-wo29">Jan 9, 2024</td>
