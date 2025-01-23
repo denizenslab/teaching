@@ -170,7 +170,7 @@ Abstraction Process in Language Models</a></td>
   </tr>
   <tr>
     <td class="tg-wo29">Jan 30, 2024</td>
-    <td class="tg-wo29"><a href="https://www.biorxiv.org/content/10.1101/2024.06.23.600044v2" target="_blank" rel="noopener noreferrer">Pronouns reactivate conceptual representations in human hippocampal neurons</a></td>
+    <td class="tg-wo29"><a href="https://www.science.org/doi/epdf/10.1126/science.adr2813" target="_blank" rel="noopener noreferrer">Pronouns reactivate conceptual representations in human hippocampal neurons</a></td>
     <td class="tg-fzdr">Bernardo Ortega</td>
   </tr>
   <tr>
