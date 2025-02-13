@@ -9,7 +9,7 @@ related_publications: false
 # redirect:
 ---
 
-**INFO: This course will next take place in SoSe25. Please contact camilla.groiss@tu-berlin.de for any questions.**
+**INFO: This course will next take place in SoSe25. Please contact camilla.groiss@tu-berlin.de with any questions.**
 
 Instructor: [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](https://www.fatmanet.com/)
 
