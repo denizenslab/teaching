@@ -4,12 +4,10 @@ title: Data Science for Cognitive Neuroscience
 description: DS_CogNeuro
 img: assets/img/logo-transparent.png
 importance: 1
-category: SoSe24
+category: SoSe25
 related_publications: false
 # redirect:
 ---
-
-**INFO: This course will next take place in SoSe25. Please contact camilla.groiss@tu-berlin.de with any questions.**
 
 Instructor: [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](https://www.fatmanet.com/)
 
@@ -52,7 +50,7 @@ Instructor: [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](https://www.fatma
   </tr>
   <tr>
     <td class="tg-wo29">Lecture Period</td>
-    <td class="tg-wo29">Apr 15 - July 20, 2024</td>
+    <td class="tg-wo29">Apr 14 - July 19, 2025</td>
   </tr>
   <tr>
     <td class="tg-wo29">Time</td>
@@ -68,7 +66,7 @@ Instructor: [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](https://www.fatma
   </tr>
   <tr>
     <td class="tg-wo29">ISIS</td>
-    <td class="tg-wo29"><a href="https://isis.tu-berlin.de/course/view.php?id=37510" target="_blank" rel="noopener noreferrer">link</a></td>
+    <td class="tg-wo29"><a href="https://isis.tu-berlin.de/course/view.php?id=42292" target="_blank" rel="noopener noreferrer">link</a></td>
   </tr>
 </tbody>
 </table>
@@ -116,126 +114,139 @@ Each block of the integrated course will be structured as follows:
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wo29">April 17, 2024</td>
+    <td class="tg-wo29">April 16, 2025</td>
     <td class="tg-wo29">Introduction to Cognitive Neuroscience</td>
     <td class="tg-fzdr">
-      <a href='https://drive.google.com/file/d/1TU8StI_0vQHci6bk_guV_xfHPXFbTxGL/view?usp=sharing'>[organisation]</a>
+    -
+      <!-- <a href='https://drive.google.com/file/d/1TU8StI_0vQHci6bk_guV_xfHPXFbTxGL/view?usp=sharing'>[organisation]</a>
       <a href='https://drive.google.com/file/d/1V6hi9I5calkDbRgAf84GaSVd63eI5pGG/view?usp=sharing'>[lecture]</a>
-      <a href='https://drive.google.com/file/d/11pdwmaGBK1gPmZ1YcykXYL7QloFZZNYb/view?usp=sharing'>[extra]</a>
+      <a href='https://drive.google.com/file/d/11pdwmaGBK1gPmZ1YcykXYL7QloFZZNYb/view?usp=sharing'>[extra]</a> -->
     </td>
   </tr>
   <tr>
-    <td class="tg-wo29">April 24, 2024</td>
+    <td class="tg-wo29">April 23, 2025</td>
     <td class="tg-wo29">Introduction to electroencephalogram (EEG) data: loading and plotting raw data in Python</td>
     <td class="tg-fzdr">
-      <a href='https://drive.google.com/file/d/17ybJ2a1OxAspQsEQRYNfLJ1pNODbqfRx/view?usp=sharing'>[lecture]</a>
+    -
+      <!-- <a href='https://drive.google.com/file/d/17ybJ2a1OxAspQsEQRYNfLJ1pNODbqfRx/view?usp=sharing'>[lecture]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek2%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek2%2Fassignment.ipynb&branch=main'>[assignment]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek2%2Fassignment.ipynb&branch=main'>[assignment]</a> -->
     </td>
     
   </tr>
   <tr>
-    <td class="tg-wo29">May 8, 2024</td>
+    <td class="tg-wo29">April 30, 2025</td>
     <td class="tg-wo29">Events and artifacts in neural data</td>
     <td class="tg-fzdr">
-      <a href='https://drive.google.com/file/d/1GEk98waEfaxPvhXJtNNlE9rXwAOYhb4P/view?usp=sharing'>[lecture]</a>
+    -
+      <!-- <a href='https://drive.google.com/file/d/1GEk98waEfaxPvhXJtNNlE9rXwAOYhb4P/view?usp=sharing'>[lecture]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek3%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek3%2Fassignment.ipynb&branch=main'>[assignment]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek3%2Fassignment.ipynb&branch=main'>[assignment]</a> -->
     </td>
   </tr>
   <tr>
-    <td class="tg-wo29">May 15, 2024</td>
+    <td class="tg-wo29">May 7, 2025</td>
     <td class="tg-wo29">Introduction to event related potentials (ERPs)</td>
     <td class="tg-fzdr">
-      <a href='https://drive.google.com/file/d/1EJDxFt738TluOlUUGYvLLj2P_6mPDOWW/view?usp=sharing'>[lecture]</a>
+    -
+      <!-- <a href='https://drive.google.com/file/d/1EJDxFt738TluOlUUGYvLLj2P_6mPDOWW/view?usp=sharing'>[lecture]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek4%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek4%2Fassignment.ipynb&branch=main'>[assignment]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek4%2Fassignment.ipynb&branch=main'>[assignment]</a> -->
     </td>
   </tr>
   <tr>
-    <td class="tg-wo29">May 22, 2024</td>
+    <td class="tg-wo29">May 14, 2025</td>
     <td class="tg-wo29">Filtering and Time-Frequency Representation</td>
     <td class="tg-fzdr">
-      <a href='https://drive.google.com/file/d/1iulkC3d3SRfRltg4brT-m05n_qd-DPgi/view?usp=sharing'>[lecture]</a>
+    -
+      <!-- <a href='https://drive.google.com/file/d/1iulkC3d3SRfRltg4brT-m05n_qd-DPgi/view?usp=sharing'>[lecture]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek5%2Frecap.ipynb&branch=main'>[recap]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek5%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek5%2Fassignment.ipynb&branch=main'>[assignment]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek5%2Fassignment.ipynb&branch=main'>[assignment]</a> -->
     </td>
   </tr>
   <tr>
-    <td class="tg-wo29">May 29, 2024</td>
+    <td class="tg-wo29">May 21, 2025</td>
     <td class="tg-wo29">Correlation, Regression, and Modeling</td>
     <td class="tg-fzdr">
-      <a href='https://drive.google.com/file/d/1-v3CmrxmR4XokBztlwfPdsEXhRWhL9yN/view?usp=sharing'>[lecture]</a>
+    -
+      <!-- <a href='https://drive.google.com/file/d/1-v3CmrxmR4XokBztlwfPdsEXhRWhL9yN/view?usp=sharing'>[lecture]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek6%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek6%2Fassignment.ipynb&branch=main'>[assignment]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek6%2Fassignment.ipynb&branch=main'>[assignment]</a> -->
     </td>
   </tr>
   <tr>
-    <td class="tg-wo29">June 5, 2024</td>
+    <td class="tg-wo29">May 28, 2025</td>
     <td class="tg-wo29">Introduction to functional magnetic resonance imaging (fMRI): loading and plotting raw data in Python</td>
     <td class="tg-fzdr">
-      <a href='https://drive.google.com/file/d/1Plt66-cUwbj66E4v7utoU3DR69Ess4X4/view?usp=sharing'>[lecture]</a>
+    -
+      <!-- <a href='https://drive.google.com/file/d/1Plt66-cUwbj66E4v7utoU3DR69Ess4X4/view?usp=sharing'>[lecture]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek7%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek7%2Fassignment.ipynb&branch=main'>[assignment]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek7%2Fassignment.ipynb&branch=main'>[assignment]</a> -->
     </td>
     
   </tr>
   <tr>
-    <td class="tg-wo29">June 12, 2024</td>
+    <td class="tg-wo29">June 04, 2025</td>
     <td class="tg-wo29">Masking and Visualizing fMRI data in 3D: Introduction to pycortex</td>
     <td class="tg-fzdr">
-      <a href='https://drive.google.com/file/d/1BxPePUny6UuadsMaWJw__e9pbHcoCap-/view?usp=drive_link'>[lecture]</a>
+    -
+      <!-- <a href='https://drive.google.com/file/d/1BxPePUny6UuadsMaWJw__e9pbHcoCap-/view?usp=drive_link'>[lecture]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek8%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek8%2Fassignment.ipynb&branch=main'>[assignment]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek8%2Fassignment.ipynb&branch=main'>[assignment]</a> -->
     </td>
 
   </tr>
   <tr>
-    <td class="tg-wo29">June 19, 2024</td>
+    <td class="tg-wo29">June 11, 2025</td>
     <td class="tg-wo29">Event-related averages of fMRI data and fMRI impulse response function</td>
     <td class="tg-fzdr">
-      <a href='https://drive.google.com/file/d/1ID8BYVozCbZLiqYXEDmVISO5ai8ibh15/view?usp=sharing'>[lecture]</a>
+    -
+      <!-- <a href='https://drive.google.com/file/d/1ID8BYVozCbZLiqYXEDmVISO5ai8ibh15/view?usp=sharing'>[lecture]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek9%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek9%2Fassignment.ipynb&branch=main'>[assignment]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek9%2Fassignment.ipynb&branch=main'>[assignment]</a> -->
     </td>
   </tr>
   <tr>
-    <td class="tg-wo29">June 26, 2024</td>
+    <td class="tg-wo29">June 18, 2025</td>
     <td class="tg-wo29">Multiple Regression</td>
     <td class="tg-fzdr">
-      <a href='https://drive.google.com/file/d/1Msfj-3lsfXP_L8cnoybSxRyajzo9uDJN/view?usp=sharing'>[lecture]</a>
+    -
+      <!-- <a href='https://drive.google.com/file/d/1Msfj-3lsfXP_L8cnoybSxRyajzo9uDJN/view?usp=sharing'>[lecture]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek10%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek10%2Fassignment.ipynb&branch=main'>[assignment]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek10%2Fassignment.ipynb&branch=main'>[assignment]</a> -->
     </td>
   </tr>
   <tr>
-    <td class="tg-wo29">July 3, 2024</td>
+    <td class="tg-wo29">June 25, 2025</td>
     <td class="tg-wo29">Hypothesis Testing</td>
     <td class="tg-fzdr">
-      <a href='https://drive.google.com/file/d/1mFc57MNKJ9xm4qCe2gSGoGvyZbMLZhj2/view?usp=sharing'>[lecture]</a>
+    -
+      <!-- <a href='https://drive.google.com/file/d/1mFc57MNKJ9xm4qCe2gSGoGvyZbMLZhj2/view?usp=sharing'>[lecture]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek11%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek11%2Fassignment.ipynb&branch=main'>[assignment]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek11%2Fassignment.ipynb&branch=main'>[assignment]</a> -->
     </td>
   </tr>
   <tr>
-    <td class="tg-wo29">July 10, 2024</td>
+    <td class="tg-wo29">July 02, 2025</td>
     <td class="tg-wo29">Encoding Models and Model Prediction</td>
     <td class="tg-fzdr">
-      <a href='https://drive.google.com/file/d/1Rqa3QYW3YBMh6BV5_xBtqt9NhEMHHJ2t/view?usp=sharing'>[lecture]</a>
+    -
+      <!-- <a href='https://drive.google.com/file/d/1Rqa3QYW3YBMh6BV5_xBtqt9NhEMHHJ2t/view?usp=sharing'>[lecture]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek12%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek12%2Fassignment.ipynb&branch=main'>[assignment]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek12%2Fassignment.ipynb&branch=main'>[assignment]</a> -->
     </td>
   </tr>
   <tr>
-    <td class="tg-wo29">July 17, 2024</td>
-    <td class="tg-wo29">(Optional) False Discovery Rate, Complex Encoding Models &amp; Decoding</td>
+    <td class="tg-wo29">July 09, 2025</td>
+    <td class="tg-wo29">False Discovery Rate, Complex Encoding Models &amp; Decoding</td>
     <td class="tg-fzdr">
-    <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek13%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
+    -
+    <!-- <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek13%2Ftutorial.ipynb&branch=main'>[tutorial]</a> -->
     </td>
   </tr>
   <tr>
-    <td class="tg-wo29">Aug 15-16, 2024</td>
+    <td class="tg-wo29">TBD</td>
     <td class="tg-wo29">ORAL EXAM!</td>
     <td class="tg-fzdr">-</td>
   </tr>
