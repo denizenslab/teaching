@@ -273,7 +273,7 @@ Each block of the integrated course will be structured as follows:
 <tbody>
   <tr>
     <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">Date</span></td>
-    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">July 29, 2024</span></td>
+    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">TBD</span></td>
   </tr>
   <tr>
     <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">Grading</span></td>
@@ -289,7 +289,7 @@ Each block of the integrated course will be structured as follows:
   </tr>
   <tr>
     <td class="tg-bx42"><span style="font-weight:700;font-style:normal;text-decoration:none;background-color:transparent">Register by</span></td>
-    <td class="tg-bx42"><span style="font-weight:700;font-style:normal;text-decoration:none;background-color:transparent">July 15, 2024</span></td>
+    <td class="tg-bx42"><span style="font-weight:700;font-style:normal;text-decoration:none;background-color:transparent">TBA</span></td>
   </tr>
 </tbody>
 </table>
