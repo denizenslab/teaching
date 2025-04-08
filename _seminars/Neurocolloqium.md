@@ -49,7 +49,7 @@ Instructors: Mathis Lamarre, [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](
   </tr>
   <tr>
     <td class="tg-wo29">Lecture Period</td>
-    <td class="tg-wo29">Oct 24 - Feb 13, 2024</td>
+    <td class="tg-wo29">Apr 17 - Jul 17, 2025</td>
   </tr>
   <tr>
     <td class="tg-wo29">Time</td>
@@ -61,7 +61,7 @@ Instructors: Mathis Lamarre, [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](
   </tr>
   <tr>
     <td class="tg-wo29">ISIS</td>
-    <td class="tg-wo29"><a href="https://isis.tu-berlin.de/course/view.php?id=40431" target="_blank" rel="noopener noreferrer">link</a></td>
+    <td class="tg-wo29"><a href="https://isis.tu-berlin.de/course/view.php?id=43575" target="_blank" rel="noopener noreferrer">link</a></td>
   </tr>
 </tbody>
 </table>
@@ -107,81 +107,77 @@ Depending in the scope of these method sections, presentations should be around 
     <td class="tg-fzdr">Presenter</td>
   </tr>
   <tr>
-    <td class="tg-wo29">Oct 24, 2024</td>
-    <td class="tg-wo29">–cancelled–</td>
-    <td class="tg-fzdr">–</td>
-  </tr>
-  <tr>
-    <td class="tg-wo29">Oct 31, 2024</td>
-    <td class="tg-wo29"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/4533e4a352440a32558c1c227602c323-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Scaling laws for language encoding models in fMRI</a></td>
+    <td class="tg-wo29">Apr 17, 2025</td>
+    <td class="tg-wo29"><a href="https://www.nature.com/articles/s41467-025-56162-9" target="_blank" rel="noopener noreferrer">Incremental accumulation of linguistic context in artificial and biological neural networks</a></td>
     <td class="tg-fzdr">Mathis Lamarre</td>
   </tr>
   <tr>
-    <td class="tg-wo29">Nov 7, 2024</td>
-    <td class="tg-wo29"><a href="https://arxiv.org/abs/2410.09230" target="_blank" rel="noopener noreferrer">Improving semantic understanding in speech language models via brain-tuning</a></td>
-    <td class="tg-fzdr">Subba Reddy Oota</td>
+    <td class="tg-wo29">Apr 24, 2025</td>
+    <td class="tg-wo29"><a href="https://arxiv.org/abs/2503.11630" target="_blank" rel="noopener noreferrer">The time scale of redundancy between prosody and linguistic context</a></td>
+    <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">Nov 14, 2024</td>
-    <td class="tg-wo29"><a href="https://link.springer.com/article/10.1007/s42113-024-00217-5" target="_blank" rel="noopener noreferrer">Reclaiming AI as a Theoretical Tool for Cognitive Science</a></td>
-    <td class="tg-fzdr">Ryan Gelston</td>
+    <td class="tg-wo29">May 1, 2025</td>
+    <td class="tg-wo29">Holiday</td>
+    <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">Nov 21, 2024</td>
-    <td class="tg-wo29"><a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002797" target="_blank" rel="noopener noreferrer">Longitudinal single-subject neuroimaging study reveals effects of daily environmental, physiological, and lifestyle factors on functional brain connectivity</a></td>
-    <td class="tg-fzdr">Anuja Negi</td>
+    <td class="tg-wo29">May 8, 2025</td>
+    <td class="tg-wo29">-/td>
+    <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">Nov 28, 2024</td>
-    <td class="tg-wo29"><a href="https://arxiv.org/abs/2406.19087?s=09" target="_blank" rel="noopener noreferrer">Dimensions underlying the representational alignment of deep neural networks with humans</a></td>
-    <td class="tg-fzdr">Hector Mendoza</td>
+    <td class="tg-wo29">May 15, 2025</td>
+    <td class="tg-wo29"><a href="https://arxiv.org/abs/2502.08866" target="_blank" rel="noopener noreferrer">BrainWavLM: Fine-tuning Speech Representations with Brain Responses to Language</a></td>
+    <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">Dec 5, 2024</td>
-    <td class="tg-wo29"><a href="https://www.sciencedirect.com/science/article/pii/S0166223624001838" target="_blank" rel="noopener noreferrer">Principles of intensive human neuroimaging</a></td>
-    <td class="tg-fzdr">Lily Gong</td>
+    <td class="tg-wo29">May 22, 2025</td>
+    <td class="tg-wo29"><a href="https://www.nature.com/articles/s41562-025-02105-9" target="_blank" rel="noopener noreferrer">A unified acoustic-to-speech-to-language embedding space captures the neural basis of natural language processing in everyday conversations</a></td>
+    <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">Dec 12, 2024</td>
-    <td class="tg-wo29"><a href="https://www.cell.com/neuron/fulltext/S0896-6273(24)00460-4?uuid=uuid%3A559a853a-8ac8-4960-b2bb-298a8a3278c2" target="_blank" rel="noopener noreferrer">A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations</a></td>
-    <td class="tg-fzdr">Bernardo Ortega</td>
+    <td class="tg-wo29">May 29, 2025</td>
+    <td class="tg-wo29">Holiday</td>
+    <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">Dec 19, 2024</td>
-    <td class="tg-wo29"><a href="https://www.researchsquare.com/article/rs-3913308/v1" target="_blank" rel="noopener noreferrer">Multimodality and Attention Increase Alignment in Natural Language Prediction Between Humans and Computational Models</a></td>
-    <td class="tg-fzdr">Bonnie Brader</td>
+    <td class="tg-wo29">June 5, 2025</td>
+    <td class="tg-wo29"><a href="https://link.springer.com/article/10.3758/s13423-018-1451-8" target="_blank" rel="noopener noreferrer">Small is beautiful: In defense of the small-N design</a></td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">June 12, 2025</td>
+    <td class="tg-wo29"><a href="https://arxiv.org/abs/2502.15786">MindLLM:
+A Subject-Agnostic and Versatile Model for fMRI-to-Text Decoding</a></td>
+    <td class="tg-fzdr">-</td>
     
   </tr>
   <tr>
-    <td class="tg-wo29">Jan 9, 2024</td>
-    <td class="tg-wo29"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6262220/" target="_blank" rel="noopener noreferrer">How right hemisphere damage after stroke can impair speech comprehension</a></td>
-    <td class="tg-fzdr"> </td>
+    <td class="tg-wo29">June 19, 2025</td>
+    <td class="tg-wo29"><a href="https://arxiv.org/abs/2501.15322" target="_blank" rel="noopener noreferrer">Scaling laws for decoding images from brain activity</a></td>
+    <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">Jan 16, 2024</td>
-    <td class="tg-wo29"><a href="https://arxiv.org/pdf/2409.05771" target="_blank" rel="noopener noreferrer">Evidence from fMRI Supports a Two-Phase
-Abstraction Process in Language Models</a></td>
-    <td class="tg-fzdr">Ryan Gelston</td>
+    <td class="tg-wo29">June 26, 2025</td>
+    <td class="tg-wo29"><a href="https://arxiv.org/abs/2502.07429" target="_blank" rel="noopener noreferrer">From Thought to Action: How a Hierarchy of Neural Dynamics Supports Language Production</a></td>
+    <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">Jan 23, 2024</td>
-    <td class="tg-wo29"><a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002622" target="_blank" rel="noopener noreferrer">Negation mitigates rather than inverts the neural representations of adjectives</a></td>
-    <td class="tg-fzdr">Bonnie Brader</td>
+    <td class="tg-wo29">July 3, 2025</td>
+    <td class="tg-wo29"><a href="https://arxiv.org/abs/2503.01830" target="_blank" rel="noopener noreferrer">From Language to Cognition:
+How LLMs Outgrow the Human Language Network</a></td>
+    <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">Jan 30, 2024</td>
-    <td class="tg-wo29"><a href="https://www.science.org/doi/epdf/10.1126/science.adr2813" target="_blank" rel="noopener noreferrer">Pronouns reactivate conceptual representations in human hippocampal neurons</a></td>
-    <td class="tg-fzdr">Bernardo Ortega</td>
+    <td class="tg-wo29">July 10, 2025</td>
+    <td class="tg-wo29"><a href="https://www.biorxiv.org/content/10.1101/2025.02.01.636044v1" target="_blank" rel="noopener noreferrer">Multilingual Computational Models Reveal Shared Brain Responses to 21 Languages</a></td>
+    <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">Feb 6, 2024</td>
-    <td class="tg-wo29"><a href="https://www.sciencedirect.com/science/article/pii/S1053811924002696" target="_blank" rel="noopener noreferrer">Stacked regressions and structured variance partitioning for interpretable brain maps</a></td>
-    <td class="tg-fzdr">Hector Mendoza</td>
-  </tr>
-  <tr>
-    <td class="tg-wo29">Feb 13, 2024</td>
-    <td class="tg-wo29"><a href="https://www.nature.com/articles/s41583-024-00802-4.epdf?sharing_token=iAQ56MsbMFkBzzJz6Bsx3dRgN0jAjWel9jnR3ZoTv0P7eT-pnyc10ZCsQi0HgiFIs_FKMK4ze-ilFT6Hg68mJm-VK_l9DTQqcQ8ZNOZSZeVGbZxsfQgPxKHLIGdTIbnHQFALU7g-yPRCqele7F3WKUlagKX4fXKbB1_6AFC2wgk%3D" target="_blank" rel="noopener noreferrer">The language network as a natural kind within the broader landscape of the human brain</a></td>
-    <td class="tg-fzdr">Ryan Gelston</td>
+    <td class="tg-wo29">July 17, 2025</td>
+    <td class="tg-wo29"><a href="https://transformer-circuits.pub/2025/attribution-graphs/biology.html" target="_blank" rel="noopener noreferrer">On the Biology of a Large Language Model</a></td>
+    <td class="tg-fzdr">-</td>
   </tr>
   
 </tbody>
