@@ -123,7 +123,7 @@ Depending in the scope of these method sections, presentations should be around 
   </tr>
   <tr>
     <td class="tg-wo29">May 8, 2025</td>
-    <td class="tg-wo29">-/td>
+    <td class="tg-wo29">Holiday</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
