@@ -9,7 +9,7 @@ related_publications: false
 # redirect:
 ---
 
-**INFO: This course will next take place in SoSe25. Please contact l.musiolek@tu-berlin.de with any questions.**
+**INFO: This course will take place in SoSe25. Please contact l.musiolek@tu-berlin.de with any questions.**
 
 Instructor: [Hamid Mostofi-Darbani](https://www.tu.berlin/en/arte/ueber-uns/team/wissenschaftliche-mitarbeiterinnen/mostofi-darbani-hamid-dr), [Lea Musiolek](https://leamusiolek.de/), [Fatma Deniz](https://www.fatmanet.com/)
 
@@ -54,15 +54,11 @@ Instructor: [Hamid Mostofi-Darbani](https://www.tu.berlin/en/arte/ueber-uns/team
     <td class="tg-wo29">Apr 14 - July 20, 2025</td>
   </tr>
   <tr>
-    <td class="tg-wo29">Time</td>
-    <td class="tg-wo29">TBD</td>
+    <td class="tg-wo29">TU Moses page</td>
+    <td class="tg-wo29"><a href="https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=41119&version=2&sprache=en" target="_blank" rel="noopener noreferrer">link</a></td>
   </tr>
   <tr>
-    <td class="tg-wo29">Location</td>
-    <td class="tg-wo29"><a href="https://maps.app.goo.gl/MhXJw12oPjEhnDbt6" target="_blank" rel="noopener noreferrer">TBD</a></td>
-  </tr>
-  <tr>
-    <td class="tg-wo29">ISIS page</td>
+    <td class="tg-wo29">TU ISIS page</td>
     <td class="tg-wo29"><a href="https://isis.tu-berlin.de/course/view.php?id=41930" target="_blank" rel="noopener noreferrer">link</a></td>
   </tr>
 </tbody>
@@ -84,43 +80,3 @@ This course integrates three key perspectives: inferential thinking, computation
 
 The course consists of the weekly main lecture (Vorlesung), the weekly lab (Übung), and weekly homework assignments. During the lecture, the foundational concepts for each week are introduced. In the lab sessions, students will be guided in practical programming exercises. Students receive programming homework assignments, to be uploaded at regular deadlines. Homework assignments are graded. The module ends with a portfolio exam consisting of a programming project (including a short presentation), a written exam and the homework grades.
 
-
-## Exam
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wo29{border-color:#c0c0c0;text-align:left;vertical-align:top}
-.tg .tg-bx42{border-color:#c0c0c0;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 750px">
-<!-- <colgroup>
-<col style="width: 204px">
-<col style="width: 675px">
-</colgroup> -->
-<tbody>
-  <tr>
-    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">Date</span></td>
-    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">TBD</span></td>
-  </tr>
-  <tr>
-    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">Grading</span></td>
-    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">Graded</span></td>
-  </tr>
-  <tr>
-    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">Type</span></td>
-    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">Portfolio exam</span></td>
-  </tr>
-  <tr>
-    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">Prerequisite</span></td>
-    <td class="tg-wo29"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">Submission of assignments</span></td>
-  </tr>
-  <tr>
-    <td class="tg-bx42"><span style="font-weight:700;font-style:normal;text-decoration:none;background-color:transparent">Register by</span></td>
-    <td class="tg-bx42"><span style="font-weight:700;font-style:normal;text-decoration:none;background-color:transparent">TBD</span></td>
-  </tr>
-</tbody>
-</table>

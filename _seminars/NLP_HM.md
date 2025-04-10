@@ -52,19 +52,19 @@ Instructors: [Anuja Negi](https://anujanegi.me/), Mathis Lamarre, [Subba Reddy O
   </tr>
   <tr>
     <td class="tg-wo29">Lecture Period</td>
-    <td class="tg-wo29">7-10 Oct and 18 Oct 2024</td>
+    <td class="tg-wo29">not offered in the summer semester of 2025</td>
   </tr>
   <tr>
     <td class="tg-wo29">Report submission deadline</td>
-    <td class="tg-wo29">Nov 1, 2024</td>
+    <td class="tg-wo29">TBD</td>
   </tr>
   <tr>
     <td class="tg-wo29">Time</td>
-    <td class="tg-wo29">10am-5pm, incl. 1h lunch break</td>
+    <td class="tg-wo29">(10am-5pm, incl. 1h lunch break)</td>
   </tr>
   <tr>
     <td class="tg-wo29">Location</td>
-    <td class="tg-wo29"><a href="https://maps.app.goo.gl/MhXJw12oPjEhnDbt6" target="_blank" rel="noopener noreferrer">MAR 5.060</a></td>
+    <td class="tg-wo29"><a href="https://maps.app.goo.gl/MhXJw12oPjEhnDbt6" target="_blank" rel="noopener noreferrer">(MAR 5.060)</a></td>
   </tr>
   <tr>
     <td class="tg-wo29">Max. number of participants</td>
@@ -99,7 +99,7 @@ During the seminar, students will learn:
 - to identify and present examples of relevant real-world application fields of the scientific publication,
 - to give a good scientific presentation to peers that is precise, informative, and engaging.
 
-## Schedule
+## Schedule (Winter semester 2024/25)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
