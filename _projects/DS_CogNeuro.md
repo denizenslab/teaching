@@ -10,6 +10,7 @@ related_publications: false
 ---
 
 Instructor: [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](https://www.fatmanet.com/)
+
 Tutor: Eric Lean Maier
 
 - [Overview](#overview)
