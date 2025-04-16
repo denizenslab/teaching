@@ -120,9 +120,9 @@ Each block of the integrated course will be structured as follows:
     <td class="tg-wo29">Introduction to Cognitive Neuroscience</td>
     <td class="tg-fzdr">
     -
-      <!-- <a href='https://drive.google.com/file/d/1TU8StI_0vQHci6bk_guV_xfHPXFbTxGL/view?usp=sharing'>[organisation]</a>
-      <a href='https://drive.google.com/file/d/1V6hi9I5calkDbRgAf84GaSVd63eI5pGG/view?usp=sharing'>[lecture]</a>
-      <a href='https://drive.google.com/file/d/11pdwmaGBK1gPmZ1YcykXYL7QloFZZNYb/view?usp=sharing'>[extra]</a> -->
+      <a href='https://docs.google.com/presentation/d/1Omc2b3OWVz5meOkfpE2I9VTl_0xIHMY5qmZ3_hMl-pY/view?usp=sharing'>[organisation]</a>
+      <a href='https://docs.google.com/presentation/d/1u8qwDvmFawaEfpJC1op7IPFC2-GEhvcNM6regvZ77Ns/view?usp=sharing'>[lecture]</a>
+      <a href='https://docs.google.com/presentation/d/1MevGdipGykAeTTXfFNbJXUg5qv-8xU0n0nn9ZDgznlA/view?usp=sharing'>[extra]</a>
     </td>
   </tr>
   <tr>
