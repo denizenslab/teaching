@@ -119,7 +119,6 @@ Each block of the integrated course will be structured as follows:
     <td class="tg-wo29">April 16, 2025</td>
     <td class="tg-wo29">Introduction to Cognitive Neuroscience</td>
     <td class="tg-fzdr">
-    -
       <a href='https://docs.google.com/presentation/d/1Omc2b3OWVz5meOkfpE2I9VTl_0xIHMY5qmZ3_hMl-pY/view?usp=sharing'>[organisation]</a>
       <a href='https://docs.google.com/presentation/d/1u8qwDvmFawaEfpJC1op7IPFC2-GEhvcNM6regvZ77Ns/view?usp=sharing'>[lecture]</a>
       <a href='https://docs.google.com/presentation/d/1MevGdipGykAeTTXfFNbJXUg5qv-8xU0n0nn9ZDgznlA/view?usp=sharing'>[extra]</a>
