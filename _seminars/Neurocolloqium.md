@@ -114,7 +114,7 @@ Depending in the scope of these method sections, presentations should be around 
   <tr>
     <td class="tg-wo29">Apr 24, 2025</td>
     <td class="tg-wo29"><a href="https://arxiv.org/abs/2503.11630" target="_blank" rel="noopener noreferrer">The time scale of redundancy between prosody and linguistic context</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">Peter Neumann</td>
   </tr>
   <tr>
     <td class="tg-wo29">May 1, 2025</td>
@@ -167,7 +167,7 @@ A Subject-Agnostic and Versatile Model for fMRI-to-Text Decoding</a></td>
     <td class="tg-wo29">July 3, 2025</td>
     <td class="tg-wo29"><a href="https://arxiv.org/abs/2503.01830" target="_blank" rel="noopener noreferrer">From Language to Cognition:
 How LLMs Outgrow the Human Language Network</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">Ryan Gelston</td>
   </tr>
   <tr>
     <td class="tg-wo29">July 10, 2025</td>
@@ -177,7 +177,7 @@ How LLMs Outgrow the Human Language Network</a></td>
   <tr>
     <td class="tg-wo29">July 17, 2025</td>
     <td class="tg-wo29"><a href="https://transformer-circuits.pub/2025/attribution-graphs/biology.html" target="_blank" rel="noopener noreferrer">On the Biology of a Large Language Model</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">Ryan Gelston</td>
   </tr>
   
 </tbody>
