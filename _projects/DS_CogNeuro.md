@@ -129,9 +129,9 @@ Each block of the integrated course will be structured as follows:
     <td class="tg-wo29">Introduction to electroencephalogram (EEG) data: loading and plotting raw data in Python</td>
     <td class="tg-fzdr">
     -
-      <!-- <a href='https://drive.google.com/file/d/17ybJ2a1OxAspQsEQRYNfLJ1pNODbqfRx/view?usp=sharing'>[lecture]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek2%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek2%2Fassignment.ipynb&branch=main'>[assignment]</a> -->
+      <a href='https://docs.google.com/presentation/d/1ERrAGHqQ1GkISlSNlAZM_bKjr5yU3zlPb5B6015vg10/edit?usp=sharing'>[lecture]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro_SoSe25&urlpath=tree%2FDS_CogNeuro_SoSe25%2Fweek2%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro_SoSe25&urlpath=tree%2FDS_CogNeuro_SoSe25%2Fweek2%2Fassignment.ipynb&branch=main'>[assignment]</a>
     </td>
     
   </tr>
