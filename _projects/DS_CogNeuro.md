@@ -246,7 +246,7 @@ Each block of the integrated course will be structured as follows:
     </td>
   </tr>
   <tr>
-    <td class="tg-wo29">TBD</td>
+    <td class="tg-wo29">Aug 20-22, 2025</td>
     <td class="tg-wo29">ORAL EXAM!</td>
     <td class="tg-fzdr">-</td>
   </tr>
