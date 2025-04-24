@@ -144,7 +144,7 @@ Depending in the scope of these method sections, presentations should be around 
   <tr>
     <td class="tg-wo29">June 5, 2025</td>
     <td class="tg-wo29"><a href="https://link.springer.com/article/10.3758/s13423-018-1451-8" target="_blank" rel="noopener noreferrer">Small is beautiful: In defense of the small-N design</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">Erfan Baradaran Tohidi</td>
   </tr>
   <tr>
     <td class="tg-wo29">June 12, 2025</td>
@@ -161,7 +161,7 @@ A Subject-Agnostic and Versatile Model for fMRI-to-Text Decoding</a></td>
   <tr>
     <td class="tg-wo29">June 26, 2025</td>
     <td class="tg-wo29"><a href="https://arxiv.org/abs/2502.07429" target="_blank" rel="noopener noreferrer">From Thought to Action: How a Hierarchy of Neural Dynamics Supports Language Production</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">Erfan Baradaran Tohidi</td>
   </tr>
   <tr>
     <td class="tg-wo29">July 3, 2025</td>
