@@ -129,7 +129,7 @@ Depending in the scope of these method sections, presentations should be around 
   <tr>
     <td class="tg-wo29">May 15, 2025</td>
     <td class="tg-wo29"><a href="https://arxiv.org/abs/2502.08866" target="_blank" rel="noopener noreferrer">BrainWavLM: Fine-tuning Speech Representations with Brain Responses to Language</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">Omar Sherif</td>
   </tr>
   <tr>
     <td class="tg-wo29">May 22, 2025</td>
