@@ -143,9 +143,9 @@ Each block of the integrated course will be structured as follows:
     <td class="tg-wo29">Events and artifacts in neural data</td>
     <td class="tg-fzdr">
     -
-      <!-- <a href='https://drive.google.com/file/d/1GEk98waEfaxPvhXJtNNlE9rXwAOYhb4P/view?usp=sharing'>[lecture]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek3%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek3%2Fassignment.ipynb&branch=main'>[assignment]</a> -->
+      <a href='https://drive.google.com/file/d/17DWk2GIlqBtvAO92PrpjED_9KBD1qDEB/view?usp=sharing'>[lecture]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro_SoSe25&urlpath=tree%2FDS_CogNeuro_SoSe25%2Fweek3%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro_SoSe25&urlpath=tree%2FDS_CogNeuro_SoSe25%2Fweek3%2Fassignment.ipynb&branch=main'>[assignment]</a>
     </td>
   </tr>
   <tr>
