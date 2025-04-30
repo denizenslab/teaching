@@ -156,7 +156,7 @@ A Subject-Agnostic and Versatile Model for fMRI-to-Text Decoding</a></td>
   <tr>
     <td class="tg-wo29">June 19, 2025</td>
     <td class="tg-wo29"><a href="https://arxiv.org/abs/2501.15322" target="_blank" rel="noopener noreferrer">Scaling laws for decoding images from brain activity</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">Ammar Ibrahim</td>
   </tr>
   <tr>
     <td class="tg-wo29">June 26, 2025</td>
