@@ -151,10 +151,9 @@ Each block of the integrated course will be structured as follows:
     <td class="tg-wo29">May 7, 2025</td>
     <td class="tg-wo29">Introduction to event related potentials (ERPs)</td>
     <td class="tg-fzdr">
-    -
-      <!-- <a href='https://drive.google.com/file/d/1EJDxFt738TluOlUUGYvLLj2P_6mPDOWW/view?usp=sharing'>[lecture]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek4%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek4%2Fassignment.ipynb&branch=main'>[assignment]</a> -->
+      <a href='https://drive.google.com/file/d/10ku0f0KeMLQUlj2g9hcfbIk4kO9_8nsB/view?usp=sharing'>[lecture]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro_SoSe25&urlpath=tree%2FDS_CogNeuro_SoSe25%2Fweek4%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro_SoSe25&urlpath=tree%2FDS_CogNeuro_SoSe25%2Fweek4%2Fassignment.ipynb&branch=main'>[assignment]</a> 
     </td>
   </tr>
   <tr>
