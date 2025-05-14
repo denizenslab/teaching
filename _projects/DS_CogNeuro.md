@@ -161,7 +161,6 @@ Each block of the integrated course will be structured as follows:
     <td class="tg-wo29">Filtering and Time-Frequency Representation</td>
     <td class="tg-fzdr">
     <a href='https://drive.google.com/file/d/1cld6JV08YoYrN7jWc42gra8HCF1ZimIp/view?usp=sharing'>[lecture]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro_SoSe25&urlpath=tree%2FDS_CogNeuro_SoSe25%2Fweek5%2Frecap.ipynb&branch=main'>[recap]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro_SoSe25&urlpath=tree%2FDS_CogNeuro_SoSe25%2Fweek5%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro_SoSe25&urlpath=tree%2FDS_CogNeuro_SoSe25%2Fweek5%2Fassignment.ipynb&branch=main'>[assignment]</a>
     </td>
