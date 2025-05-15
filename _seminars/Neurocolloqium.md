@@ -134,7 +134,7 @@ Depending in the scope of these method sections, presentations should be around 
   <tr>
     <td class="tg-wo29">Wednesday May 21, 10:30-12:00, 2025</td>
     <td class="tg-wo29"><a href="https://www.nature.com/articles/s41562-025-02105-9" target="_blank" rel="noopener noreferrer">A unified acoustic-to-speech-to-language embedding space captures the neural basis of natural language processing in everyday conversations</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">Chris Tseng</td>
   </tr>
   <tr>
     <td class="tg-wo29">May 29, 2025</td>
