@@ -178,10 +178,8 @@ Each block of the integrated course will be structured as follows:
     <td class="tg-wo29">May 28, 2025</td>
     <td class="tg-wo29">Introduction to functional magnetic resonance imaging (fMRI): loading and plotting raw data in Python</td>
     <td class="tg-fzdr">
-    -
-      <!-- <a href='https://drive.google.com/file/d/1Plt66-cUwbj66E4v7utoU3DR69Ess4X4/view?usp=sharing'>[lecture]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek7%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek7%2Fassignment.ipynb&branch=main'>[assignment]</a> -->
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro_SoSe25&urlpath=tree%2FDS_CogNeuro_SoSe25%2Fweek7%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro_SoSe25&urlpath=tree%2FDS_CogNeuro_SoSe25%2Fweek7%2Fassignment.ipynb&branch=main'>[assignment]</a>
     </td>
     
   </tr>
