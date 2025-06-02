@@ -184,7 +184,7 @@ Each block of the integrated course will be structured as follows:
     
   </tr>
   <tr>
-    <td class="tg-wo29">June 04, 2025</td>
+    <td class="tg-wo29">June 11, 2025</td>
     <td class="tg-wo29">Masking and Visualizing fMRI data in 3D: Introduction to pycortex</td>
     <td class="tg-fzdr">
     -
@@ -195,7 +195,7 @@ Each block of the integrated course will be structured as follows:
 
   </tr>
   <tr>
-    <td class="tg-wo29">June 11, 2025</td>
+    <td class="tg-wo29">June 18, 2025</td>
     <td class="tg-wo29">Event-related averages of fMRI data and fMRI impulse response function</td>
     <td class="tg-fzdr">
     -
@@ -205,7 +205,7 @@ Each block of the integrated course will be structured as follows:
     </td>
   </tr>
   <tr>
-    <td class="tg-wo29">June 18, 2025</td>
+    <td class="tg-wo29">June 25, 2025</td>
     <td class="tg-wo29">Multiple Regression</td>
     <td class="tg-fzdr">
     -
@@ -215,7 +215,7 @@ Each block of the integrated course will be structured as follows:
     </td>
   </tr>
   <tr>
-    <td class="tg-wo29">June 25, 2025</td>
+    <td class="tg-wo29">July 02, 2025</td>
     <td class="tg-wo29">Hypothesis Testing</td>
     <td class="tg-fzdr">
     -
@@ -225,7 +225,7 @@ Each block of the integrated course will be structured as follows:
     </td>
   </tr>
   <tr>
-    <td class="tg-wo29">July 02, 2025</td>
+    <td class="tg-wo29">July 09, 2025</td>
     <td class="tg-wo29">Encoding Models and Model Prediction</td>
     <td class="tg-fzdr">
     -
@@ -235,8 +235,8 @@ Each block of the integrated course will be structured as follows:
     </td>
   </tr>
   <tr>
-    <td class="tg-wo29">July 09, 2025</td>
-    <td class="tg-wo29">False Discovery Rate, Complex Encoding Models &amp; Decoding</td>
+    <td class="tg-wo29">July 16, 2025</td>
+    <td class="tg-wo29">False Discovery Rate, Complex Encoding Models &amp; Decoding (optional)</td>
     <td class="tg-fzdr">
     -
     <!-- <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek13%2Ftutorial.ipynb&branch=main'>[tutorial]</a> -->
