@@ -176,7 +176,7 @@ Each block of the integrated course will be structured as follows:
   </tr>
   <tr>
     <td class="tg-wo29">June 4, 2025</td>
-    <td class="tg-wo29">Introduction to functional magnetic resonance imaging (fMRI): loading and plotting raw data in Python</td>
+    <td class="tg-wo29">Introduction to functional magnetic resonance imaging (fMRI): loading and plotting data in Python and PyCortex</td>
     <td class="tg-fzdr">
     -
       <!-- <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro_SoSe25&urlpath=tree%2FDS_CogNeuro_SoSe25%2Fweek7%2Ftutorial.ipynb&branch=main'>[tutorial]</a> -->
@@ -186,7 +186,7 @@ Each block of the integrated course will be structured as follows:
   </tr>
   <tr>
     <td class="tg-wo29">June 11, 2025</td>
-    <td class="tg-wo29">Masking and Visualizing fMRI data in 3D: Introduction to pycortex</td>
+    <td class="tg-wo29">Preprocessing</td>
     <td class="tg-fzdr">
     -
       <!-- <a href='https://drive.google.com/file/d/1BxPePUny6UuadsMaWJw__e9pbHcoCap-/view?usp=drive_link'>[lecture]</a>
