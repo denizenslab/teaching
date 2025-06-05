@@ -150,7 +150,7 @@ Depending in the scope of these method sections, presentations should be around 
     <td class="tg-wo29">June 12, 2025</td>
     <td class="tg-wo29"><a href="https://arxiv.org/abs/2502.15786">MindLLM:
 A Subject-Agnostic and Versatile Model for fMRI-to-Text Decoding</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">Subba Reddy Oota</td>
     
   </tr>
   <tr>
@@ -172,7 +172,7 @@ How LLMs Outgrow the Human Language Network</a></td>
   <tr>
     <td class="tg-wo29">July 10, 2025</td>
     <td class="tg-wo29"><a href="https://www.biorxiv.org/content/10.1101/2025.02.01.636044v1" target="_blank" rel="noopener noreferrer">Multilingual Computational Models Reveal Shared Brain Responses to 21 Languages</a></td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-fzdr">Anuja Negi</td>
   </tr>
   <tr>
     <td class="tg-wo29">July 17, 2025</td>
