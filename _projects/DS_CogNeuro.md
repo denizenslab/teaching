@@ -188,7 +188,7 @@ Each block of the integrated course will be structured as follows:
     <td class="tg-wo29">June 11, 2025</td>
     <td class="tg-wo29">Preprocessing</td>
     <td class="tg-fzdr">
-    <a href='https://drive.google.com/file/d/17UBaqcQNsoJG6p6bUyi07gN57VQI_8kl/view?usp=sharing'>[lecture]</a>
+    <a href='https://docs.google.com/presentation/d/1IZ4_SFloKZj4JfHnNL-vsxeBJdAzxSslacvDKsxegPc/edit?usp=sharing'>[lecture]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro_SoSe25&urlpath=tree%2FDS_CogNeuro_SoSe25%2Fweek8%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
       <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro_SoSe25&urlpath=tree%2FDS_CogNeuro_SoSe25%2Fweek8%2Fassignment.ipynb&branch=main'>[assignment]</a>
     </td>
