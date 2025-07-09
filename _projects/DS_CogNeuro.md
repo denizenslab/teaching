@@ -225,10 +225,9 @@ Each block of the integrated course will be structured as follows:
     <td class="tg-wo29">July 09, 2025</td>
     <td class="tg-wo29">Encoding Models and Model Prediction</td>
     <td class="tg-fzdr">
-    -
-      <!-- <a href='https://drive.google.com/file/d/1Rqa3QYW3YBMh6BV5_xBtqt9NhEMHHJ2t/view?usp=sharing'>[lecture]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek12%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
-      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek12%2Fassignment.ipynb&branch=main'>[assignment]</a> -->
+      <a href='https://drive.google.com/file/d/1dbG0vktS3pFPFvx6R3ytWPgfdJhOy0AY/view?usp=sharing'>[lecture]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro_SoSe25&urlpath=tree%2FDS_CogNeuro_SoSe25%2Fweek12%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
+      <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro_SoSe25&urlpath=tree%2FDS_CogNeuro_SoSe25%2Fweek12%2Fassignment.ipynb&branch=main'>[assignment]</a>
     </td>
   </tr>
   <tr>
