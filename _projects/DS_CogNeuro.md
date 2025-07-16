@@ -234,8 +234,7 @@ Each block of the integrated course will be structured as follows:
     <td class="tg-wo29">July 16, 2025</td>
     <td class="tg-wo29">False Discovery Rate, Complex Encoding Models &amp; Decoding (optional)</td>
     <td class="tg-fzdr">
-    -
-    <!-- <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro&urlpath=tree%2FDS_CogNeuro%2Fweek13%2Ftutorial.ipynb&branch=main'>[tutorial]</a> -->
+    <a href='http://dscogneuro.coco.tu-berlin.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdenizenslab%2FDS_CogNeuro_SoSe25&urlpath=tree%2FDS_CogNeuro_SoSe25%2Fweek13%2Ftutorial.ipynb&branch=main'>[tutorial]</a>
     </td>
   </tr>
   <tr>
