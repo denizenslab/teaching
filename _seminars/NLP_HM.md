@@ -52,7 +52,7 @@ Instructors: [Anuja Negi](https://anujanegi.me/), Mathis Lamarre, [Subba Reddy O
   </tr>
   <tr>
     <td class="tg-wo29">Lecture Period</td>
-    <td class="tg-wo29">not offered in the summer semester of 2025</td>
+    <td class="tg-wo29">Due to conflicting schedules, the seminar will not be offered in the winter semester of 2025/26.</td>
   </tr>
   <tr>
     <td class="tg-wo29">Report submission deadline</td>
