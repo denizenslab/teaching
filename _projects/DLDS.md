@@ -9,7 +9,9 @@ related_publications: false
 # redirect:
 ---
 
-**INFO: This course will take place in SoSe25. Please contact l.musiolek@tu-berlin.de with any questions.**
+**INFO: This course will NOT take place in WiSe25/26. Please contact l.musiolek@tu-berlin.de with any questions.**
+
+## General information (outdated)
 
 Instructor: [Hamid Mostofi-Darbani](https://www.tu.berlin/en/arte/ueber-uns/team/wissenschaftliche-mitarbeiterinnen/mostofi-darbani-hamid-dr), [Lea Musiolek](https://leamusiolek.de/), [Fatma Deniz](https://www.fatmanet.com/)
 
