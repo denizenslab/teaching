@@ -49,7 +49,7 @@ Instructors: Mathis Lamarre, [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](
   </tr>
   <tr>
     <td class="tg-wo29">Lecture Period</td>
-    <td class="tg-wo29">Apr 17 - Jul 17, 2025</td>
+    <td class="tg-wo29">Oct 16, 2025 - Feb 12, 2026</td>
   </tr>
   <tr>
     <td class="tg-wo29">Time</td>
@@ -61,7 +61,7 @@ Instructors: Mathis Lamarre, [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](
   </tr>
   <tr>
     <td class="tg-wo29">ISIS</td>
-    <td class="tg-wo29"><a href="https://isis.tu-berlin.de/course/view.php?id=43575" target="_blank" rel="noopener noreferrer">link</a></td>
+    <td class="tg-wo29"><a href="https://isis.tu-berlin.de/course/view.php?id=45168" target="_blank" rel="noopener noreferrer">link</a></td>
   </tr>
 </tbody>
 </table>
@@ -107,77 +107,85 @@ Depending in the scope of these method sections, presentations should be around 
     <td class="tg-fzdr">Presenter</td>
   </tr>
   <tr>
-    <td class="tg-wo29">Apr 17, 2025</td>
-    <td class="tg-wo29"><a href="https://www.nature.com/articles/s41467-025-56162-9" target="_blank" rel="noopener noreferrer">Incremental accumulation of linguistic context in artificial and biological neural networks</a></td>
-    <td class="tg-fzdr">Mathis Lamarre</td>
-  </tr>
-  <tr>
-    <td class="tg-wo29">Apr 24, 2025</td>
-    <td class="tg-wo29"><a href="https://arxiv.org/abs/2503.11630" target="_blank" rel="noopener noreferrer">The time scale of redundancy between prosody and linguistic context</a></td>
-    <td class="tg-fzdr">Peter Neumann</td>
-  </tr>
-  <tr>
-    <td class="tg-wo29">May 1, 2025</td>
-    <td class="tg-wo29">Holiday</td>
+    <td class="tg-wo29">Oct 16, 2025</td>
+    <td class="tg-wo29">-</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">May 8, 2025</td>
-    <td class="tg-wo29">Holiday</td>
+    <td class="tg-wo29">Oct 23, 2025</td>
+    <td class="tg-wo29">-</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">May 15, 2025</td>
-    <td class="tg-wo29"><a href="https://arxiv.org/abs/2502.08866" target="_blank" rel="noopener noreferrer">BrainWavLM: Fine-tuning Speech Representations with Brain Responses to Language</a></td>
-    <td class="tg-fzdr">Omar Sherif</td>
-  </tr>
-  <tr>
-    <td class="tg-wo29">Wednesday May 21, 10:30-12:00, 2025</td>
-    <td class="tg-wo29"><a href="https://www.nature.com/articles/s41562-025-02105-9" target="_blank" rel="noopener noreferrer">A unified acoustic-to-speech-to-language embedding space captures the neural basis of natural language processing in everyday conversations</a></td>
-    <td class="tg-fzdr">Chris Tseng</td>
-  </tr>
-  <tr>
-    <td class="tg-wo29">May 29, 2025</td>
-    <td class="tg-wo29">Holiday</td>
+    <td class="tg-wo29">Oct 30, 2025</td>
+    <td class="tg-wo29">-</td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">June 5, 2025</td>
-    <td class="tg-wo29"><a href="https://link.springer.com/article/10.3758/s13423-018-1451-8" target="_blank" rel="noopener noreferrer">Small is beautiful: In defense of the small-N design</a></td>
-    <td class="tg-fzdr">Erfan Baradaran Tohidi</td>
+    <td class="tg-wo29">Nov 6, 2025</td>
+    <td class="tg-wo29">-</td>
+    <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">June 12, 2025</td>
-    <td class="tg-wo29"><a href="https://arxiv.org/abs/2502.15786">MindLLM:
-A Subject-Agnostic and Versatile Model for fMRI-to-Text Decoding</a></td>
-    <td class="tg-fzdr">Subba Reddy Oota</td>
+    <td class="tg-wo29">Nov 13, 2025</td>
+    <td class="tg-wo29">-</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">Nov 20, 2025</td>
+    <td class="tg-wo29">-</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">Nov 27, 2025</td>
+    <td class="tg-wo29">-</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">Dec 4, 2025</td>
+    <td class="tg-wo29">-</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">Dec 11, 2025</td>
+    <td class="tg-wo29">-</td>
+    <td class="tg-fzdr">-</td>
     
   </tr>
   <tr>
-    <td class="tg-wo29">June 19, 2025</td>
-    <td class="tg-wo29"><a href="https://arxiv.org/abs/2501.15322" target="_blank" rel="noopener noreferrer">Scaling laws for decoding images from brain activity</a></td>
-    <td class="tg-fzdr">Ammar Ibrahim</td>
+    <td class="tg-wo29">Dec 18, 2025</td>
+    <td class="tg-wo29">-</td>
+    <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">June 26, 2025</td>
-    <td class="tg-wo29"><a href="https://arxiv.org/abs/2502.07429" target="_blank" rel="noopener noreferrer">From Thought to Action: How a Hierarchy of Neural Dynamics Supports Language Production</a></td>
-    <td class="tg-fzdr">Erfan Baradaran Tohidi</td>
+    <td class="tg-wo29">Jan 8, 2026</td>
+    <td class="tg-wo29">-</td>
+    <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">July 3, 2025</td>
-    <td class="tg-wo29"><a href="https://arxiv.org/abs/2503.01830" target="_blank" rel="noopener noreferrer">From Language to Cognition:
-How LLMs Outgrow the Human Language Network</a></td>
-    <td class="tg-fzdr">Ryan Gelston</td>
+    <td class="tg-wo29">Jan 15, 2026</td>
+    <td class="tg-wo29">-</td>
+    <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">July 10, 2025</td>
-    <td class="tg-wo29"><a href="https://www.biorxiv.org/content/10.1101/2025.02.01.636044v1" target="_blank" rel="noopener noreferrer">Multilingual Computational Models Reveal Shared Brain Responses to 21 Languages</a></td>
-    <td class="tg-fzdr">Anuja Negi</td>
+    <td class="tg-wo29">Jan 22, 2026</td>
+    <td class="tg-wo29">-</td>
+    <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">July 17, 2025</td>
-    <td class="tg-wo29"><a href="https://transformer-circuits.pub/2025/attribution-graphs/biology.html" target="_blank" rel="noopener noreferrer">On the Biology of a Large Language Model</a></td>
-    <td class="tg-fzdr">Ryan Gelston</td>
+    <td class="tg-wo29">Jan 29, 2026</td>
+    <td class="tg-wo29">-</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">Fab 5, 2026</td>
+    <td class="tg-wo29">-</td>
+    <td class="tg-fzdr">-</td>
+  </tr>
+  <tr>
+    <td class="tg-wo29">Feb 12, 2026</td>
+    <td class="tg-wo29">-</td>
+    <td class="tg-fzdr">-</td>
   </tr>
   
 </tbody>
