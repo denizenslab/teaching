@@ -110,7 +110,7 @@ Depending in the scope of these method sections, presentations should be around 
     <td class="tg-wo29">Oct 16, 2025</td>
     <td class="tg-wo29"><a href="https://arxiv.org/abs/2412.05571" target="_blank" rel="noopener noreferrer">A polar coordinate system represents syntax in large language models
 </a></td>
-    <td class="tg-fzdr">Omar Searif</td>
+    <td class="tg-fzdr">Omar Sherif</td>
   </tr>
   <tr>
     <td class="tg-wo29">Oct 23, 2025</td>
