@@ -152,7 +152,7 @@ and stimulus modalities
   </tr>
   <tr>
     <td class="tg-wo29">Dec 4, 2025</td>
-    <td class="tg-wo29"><a href="https://arxiv.org/pdf/2508.11536" target="_blank" rel="noopener noreferrer">Language models align with brain regions that represent concepts across modalities
+    <td class="tg-wo29"><a href="https://arxiv.org/abs/2508.11536" target="_blank" rel="noopener noreferrer">Language models align with brain regions that represent concepts across modalities
 </a></td>
     <td class="tg-fzdr">-</td>
   </tr>
