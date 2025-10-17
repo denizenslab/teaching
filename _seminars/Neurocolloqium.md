@@ -177,8 +177,8 @@ and stimulus modalities
   </tr>
   <tr>
     <td class="tg-wo29">Jan 15, 2026</td>
-    <td class="tg-wo29"><a href="https://arxiv.org/pdf/2509.04664" target="_blank" rel="noopener noreferrer">
-</a></td>Why Language Models Hallucinate
+    <td class="tg-wo29"><a href="https://arxiv.org/abs/2509.04664" target="_blank" rel="noopener noreferrer">Why Language Models Hallucinate
+</a></td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
