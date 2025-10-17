@@ -114,78 +114,95 @@ Depending in the scope of these method sections, presentations should be around 
   </tr>
   <tr>
     <td class="tg-wo29">Oct 23, 2025</td>
-    <td class="tg-wo29">-</td>
-    <td class="tg-fzdr">-</td>
+    <td class="tg-wo29"><a href="https://www.nature.com/articles/s41539-025-00337-y" target="_blank" rel="noopener noreferrer">Reading comprehension in L1 and L2 readers: neurocomputational mechanisms revealed through large language models
+</a></td>
+    <td class="tg-fzdr">Mathis Lamarre</td>
   </tr>
   <tr>
     <td class="tg-wo29">Oct 30, 2025</td>
-    <td class="tg-wo29">-</td>
+    <td class="tg-wo29"><a href="https://arxiv.org/abs/2507.22229">TRIBE: TRImodal Brain Encoder
+for whole-brain fMRI response prediction
+</a></td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">Nov 6, 2025</td>
-    <td class="tg-wo29">-</td>
+    <td class="tg-wo29"><td class="tg-wo29"><a href="https://arxiv.org/abs/2509.23566">Towards Interpretable Visual Decoding with Attention to Brain Representations
+</a></td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">Nov 13, 2025</td>
-    <td class="tg-wo29">-</td>
+    <td class="tg-wo29"><td class="tg-wo29"><a href="https://www.sciencedirect.com/science/article/pii/S0960982225000545?ref=pdf_download&fr=RR-2&rr=990087957ba9e508">Semantic language decoding across participants
+and stimulus modalities
+</a></td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">Nov 20, 2025</td>
-    <td class="tg-wo29">-</td>
+    <td class="tg-wo29"><td class="tg-wo29"><a href="https://www.biorxiv.org/content/10.1101/2025.07.22.664908v3">Diverse Perceptual Representations Across Visual Pathways Emerge from A Single Objective
+</a></td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">Nov 27, 2025</td>
-    <td class="tg-wo29">-</td>
+    <td class="tg-wo29"><td class="tg-wo29"><a href="https://www.nature.com/articles/s42256-025-01072-0">High-level visual representations in the human brain are aligned with large language models
+</a></td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">Dec 4, 2025</td>
-    <td class="tg-wo29">-</td>
+    <td class="tg-wo29"><td class="tg-wo29"><a href="https://arxiv.org/pdf/2508.11536">Language models align with brain regions that represent concepts across modalities
+</a></td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">Dec 11, 2025</td>
-    <td class="tg-wo29">-</td>
+    <td class="tg-wo29"><td class="tg-wo29"><a href="https://arxiv.org/abs/2311.09308">Divergences between Language Models and Human Brains
+</a></td>
     <td class="tg-fzdr">-</td>
     
   </tr>
   <tr>
     <td class="tg-wo29">Dec 18, 2025</td>
-    <td class="tg-wo29">-</td>
+    <td class="tg-wo29"><td class="tg-wo29"><a href="https://www.pnas.org/doi/10.1073/pnas.2426815122">Semantic change in adults is not primarily a generational phenomenon
+</a></td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">Jan 8, 2026</td>
-    <td class="tg-wo29">-</td>
+    <td class="tg-wo29"><td class="tg-wo29"><a href="https://www.biorxiv.org/content/10.1101/2025.08.22.671848v1.full.pdf">Individual differences shape conceptual representation in the brain 
+</a></td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">Jan 15, 2026</td>
-    <td class="tg-wo29">-</td>
+    <td class="tg-wo29"><td class="tg-wo29"><a href="https://arxiv.org/pdf/2509.04664">
+</a></td>Why Language Models Hallucinate
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">Jan 22, 2026</td>
-    <td class="tg-wo29">-</td>
+    <td class="tg-wo29"><td class="tg-wo29"><a href="https://www.biorxiv.org/content/10.1101/2025.06.23.661103v2.full">Attention is all you need (in the brain): semantic contextualization in human hippocampus
+</a></td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">Jan 29, 2026</td>
-    <td class="tg-wo29">-</td>
+    <td class="tg-wo29"><td class="tg-wo29"><a href="https://www.annualreviews.org/content/journals/10.1146/annurev-psych-122216-011829">Concepts and Compositionality: In Search of the Brain's Language of Thought
+</a></td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
-    <td class="tg-wo29">Fab 5, 2026</td>
-    <td class="tg-wo29">-</td>
+    <td class="tg-wo29">Feb 5, 2026</td>
+    <td class="tg-wo29"><td class="tg-wo29"><a href="https://www.biorxiv.org/content/10.1101/2025.08.12.669958v1.full">Evaluating scientific theories as predictive models in language neuroscience
+</a></td>
     <td class="tg-fzdr">-</td>
   </tr>
   <tr>
     <td class="tg-wo29">Feb 12, 2026</td>
-    <td class="tg-wo29">-</td>
+    <td class="tg-wo29"><td class="tg-wo29"><a href="https://pubmed.ncbi.nlm.nih.gov/38712051/">Disentangling signal and noise in neural responses through generative modeling
+</a></td>
     <td class="tg-fzdr">-</td>
   </tr>
   
