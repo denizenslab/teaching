@@ -53,7 +53,7 @@ Instructors: Mathis Lamarre, [Anuja Negi](https://anujanegi.me/), [Fatma Deniz](
   </tr>
   <tr>
     <td class="tg-wo29">Time</td>
-    <td class="tg-wo29">Thursdays @ 3-4:30pm</td>
+    <td class="tg-wo29">Thursdays @ 2:30-4:00pm</td>
   </tr>
   <tr>
     <td class="tg-wo29">Location</td>
