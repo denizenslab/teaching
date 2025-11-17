@@ -4,7 +4,7 @@ title: Neurocolloquium
 description: Journal Club
 img: assets/img/neurocolloquium.png #add img here, place it in /assets/img/
 importance: 1
-category: WiSe24
+category: WiSe25
 related_publications: false
 # redirect:
 ---
@@ -185,7 +185,7 @@ and stimulus modalities
     <td class="tg-wo29">Jan 22, 2026</td>
     <td class="tg-wo29"><a href="https://www.biorxiv.org/content/10.1101/2025.06.23.661103v2.full" target="_blank" rel="noopener noreferrer">Attention is all you need (in the brain): semantic contextualization in human hippocampus
 </a></td>
-    <td class="tg-fzdr">Doruk</td>
+    <td class="tg-fzdr">Thomas</td>
   </tr>
   <tr>
     <td class="tg-wo29">Jan 29, 2026</td>
@@ -201,9 +201,9 @@ and stimulus modalities
   </tr>
   <tr>
     <td class="tg-wo29">Feb 12, 2026</td>
-    <td class="tg-wo29"><a href="https://pubmed.ncbi.nlm.nih.gov/38712051/" target="_blank" rel="noopener noreferrer">Disentangling signal and noise in neural responses through generative modeling
+    <td class="tg-wo29"><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012092" target="_blank" rel="noopener noreferrer">Disentangling signal and noise in neural responses through generative modeling
 </a></td>
-    <td class="tg-fzdr">Doruk</td>
+    <td class="tg-fzdr">Niklas</td>
   </tr>
   
 </tbody>
