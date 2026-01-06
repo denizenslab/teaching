@@ -170,7 +170,7 @@ and stimulus modalities
     <td class="tg-fzdr">Joseph</td>
   </tr>
   <tr>
-    <td class="tg-wo29">Jan 8, 2026</td>
+    <td class="tg-wo29">TBD</td>
     <td class="tg-wo29"><a href="https://www.biorxiv.org/content/10.1101/2025.08.22.671848v1.full.pdf" target="_blank" rel="noopener noreferrer">Individual differences shape conceptual representation in the brain 
 </a></td>
     <td class="tg-fzdr">Carmen</td>
