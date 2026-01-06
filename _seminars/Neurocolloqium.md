@@ -177,9 +177,9 @@ and stimulus modalities
   </tr>
   <tr>
     <td class="tg-wo29">Jan 15, 2026</td>
-    <td class="tg-wo29"><a href="https://arxiv.org/abs/2509.04664" target="_blank" rel="noopener noreferrer">Why Language Models Hallucinate
+    <td class="tg-wo29"><a href="https://www.biorxiv.org/content/10.1101/2025.08.12.669958v1.full" target="_blank" rel="noopener noreferrer">Evaluating scientific theories as predictive models in language neuroscience
 </a></td>
-    <td class="tg-fzdr">Lea</td>
+    <td class="tg-fzdr">Simone</td>
   </tr>
   <tr>
     <td class="tg-wo29">Jan 22, 2026</td>
@@ -195,9 +195,9 @@ and stimulus modalities
   </tr>
   <tr>
     <td class="tg-wo29">Feb 5, 2026</td>
-    <td class="tg-wo29"><a href="https://www.biorxiv.org/content/10.1101/2025.08.12.669958v1.full" target="_blank" rel="noopener noreferrer">Evaluating scientific theories as predictive models in language neuroscience
+    <td class="tg-wo29"><a href="https://arxiv.org/abs/2509.04664" target="_blank" rel="noopener noreferrer">Why Language Models Hallucinate
 </a></td>
-    <td class="tg-fzdr">Simone</td>
+    <td class="tg-fzdr">Lea</td>
   </tr>
   <tr>
     <td class="tg-wo29">Feb 12, 2026</td>
